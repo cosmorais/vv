@@ -1,2 +1,5 @@
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="PREMIERES SD" group-title="PREMIERES ",PREMIRERE clubes SD
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="PREMIERES SD" group-title="PREMIERES ",Premiere clubes 
 http://srv.maxptv.net:8080/Venda129/Marcel/85
+
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="PREMIERES SD" group-title="PREMIERES ",Premiere 2 
+http://srv.maxptv.net:8080/Venda129/Marcel/83
