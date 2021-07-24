@@ -1,9 +1,7 @@
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="PREMIERES SD" group-title="PREMIERES ",Premiere clubes 
-http://srv.maxptv.net:8080/Venda129/Marcel/85
-
-
-EXTINF:-1 tvg-id="" tvg-name="All Sports HD" tvg-
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet HD [Alter]" tvg-logo="https://www.liebeurl.me/logos/animalplanet.png" group-title="Canais | Documentários",Animal Planet HD [Alter]
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_655/playlist.m3u8
+
+
 
 
 
