@@ -1,23 +1,9 @@
 #EXTINF:-1 tvg-id="Ae.br" tvg-name="PREMIERES SD" group-title="PREMIERES ",Premiere clubes 
 http://srv.maxptv.net:8080/Venda129/Marcel/85
 
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="PREMIERES SD" group-title="PREMIERES ",Premiere 2 
-http://srv.maxptv.net:8080/Venda129/Marcel/83
 
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="PREMIERES SD" group-title="PREMIERES ",Premiere 3
-http://srv.maxptv.net:8080/Venda129/Marcel/81
-
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="PREMIERES SD" group-title="PREMIERES ",Premiere 4
-http://srv.maxptv.net:8080/Venda129/Marcel/79
-
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="PREMIERES SD" group-title="PREMIERES ",Premiere 5
-http://srv.maxptv.net:8080/Venda129/Marcel/77
-
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="PREMIERES SD" group-title="PREMIERES ",Premiere 6
-http://srv.maxptv.net:8080/Venda129/Marcel/75
-
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="PREMIERES SD" group-title="PREMIERES ",Premiere 7
-http://srv.maxptv.net:8080/Venda129/Marcel/74
+EXTINF:-1 tvg-id="" tvg-name="All Sports HD" tvg-
+http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_655/playlist.m3u8
 
 
 
