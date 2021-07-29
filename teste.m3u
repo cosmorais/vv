@@ -9,7 +9,6 @@ https://srv1.painelvideo.com/tvmix/tvmix/chunklist_w324831437.m3u8
 #EXTINF:-4 tvg-id="Ae.br" tvg-name="Filmes" group-title="filmes ",NovaPlay
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1371270398.m3u8
 
-#EXTM3U
 #EXTM3U:-5 tvg-id="Ae.br" tvg-name="Filmes2" group-title="filmes2 ",filme 1
 https://video01.kshost.com.br:4443/clodoaldo3320/clodoaldo3320/chunklist_w1237587292.m3u8
 
