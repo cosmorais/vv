@@ -2,16 +2,6 @@
 #EXTINF:-2 tvg-id="Ae.br" tvg-name="Globo RJ" group-title="Abertos ",Globo RJ
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_655/playlist.m3u8
 
-#EXTINF:-15 tvg-id="Ae.br" tvg-name="AMC" group-title="filmes ",AMC
-http://xcui.vitvabc.xyz:8880/287994003323/287994003323/16692
-
-
-
-
-#EXTINF:-2 tvg-id="Ae.br" tvg-name="Premieres" group-title="Premieres ",PREMIERE CLUBES HD
-http://xcui.vitvabc.xyz:8880/287994003323/287994003323/31527
-
-
 
 #EXTINF:-3 tvg-id="Ae.br" tvg-name="Filmes" group-title="filmes ",cynemax 
 https://srv1.painelvideo.com/tvmix/tvmix/chunklist_w324831437.m3u8
@@ -68,8 +58,6 @@ https://cdn.jmvstream.com/w/LVW-9883/LVW9883_lFcfKysrHF/chunklist.m3u8
 https://5cf4a2c2512a2.streamlock.net/jornaldonorteste/jornaldonorteste/chunklist_w1589740295.m3u8
 
 
-
-
 #EXTINF:-3 tvg-id="Ae.br" tvg-name="Filmes" group-title="filmes ",TV MANCHETE WEB 
 https://srv5.zcast.com.br/tvmanchete/tvmanchete/chunklist_w255968089.m3u8
 
@@ -80,5 +68,14 @@ http://pe1b.distv.net:8080/live/ib-3992aurino/ShSLKB8CQ0/114.m3u8
 
 
 
+
+#EXTM3U
+#EXTINF:-15 tvg-id="Ae.br" tvg-name="AMC" group-title="filmes PG ",AMC
+http://xcui.vitvabc.xyz:8880/287994003323/287994003323/16692
+
+
+#EXTM3U
+#EXTINF:-2 tvg-id="Ae.br" tvg-name="Premieres" group-title="Premieres PG ",PREMIERE CLUBES HD
+http://xcui.vitvabc.xyz:8880/287994003323/287994003323/31527
 
 
