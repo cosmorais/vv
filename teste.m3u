@@ -6,7 +6,7 @@ http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1n
 #EXTINF:-3 tvg-id="Ae.br" tvg-name="Filmes" group-title="filmes ",cynemax 
 https://srv1.painelvideo.com/tvmix/tvmix/chunklist_w324831437.m3u8
 
-#EXTINF:-1,GLOBO¹ NORDESTE FULL HD
+#EXTINF:-4 tvg-id="Ae.br" tvg-name="Filmes" group-title="filmes ",NovaPlay
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1371270398.m3u8
 
 #EXTM3U
