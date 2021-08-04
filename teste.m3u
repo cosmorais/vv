@@ -28,9 +28,6 @@ https://srv5.zcast.com.br/tvmanchete/tvmanchete/chunklist_w1654383826.m3u8
 https://stmv1.srvstm.com/webradiocidade/webradiocidade/chunklist_w1281420894.m3u8
 
 
-
-1
-
 #EXTM3U
 #EXTINF:-10 tvg-id="Ae.br" tvg-name="Filmes" group-title="filmes ",LONDRINA TV
 https://video01.kshost.com.br:4443/clodoaldo3320/clodoaldo3320/chunklist_w1237587292.m3u8
@@ -103,3 +100,6 @@ http://xcui.vitvabc.xyz:8880/287994003323/287994003323/3167
 #EXTINF:-15 tvg-id="Ae.br" tvg-name="zodiaco" group-title="filmes PG ",zodiaco
 http://50.7.69.210:80/C44E74526807/C44E74526807/4827?token=SxYMUEZcEANAAwYABgYGV1dUBg9RBgoFUghWVlcGBAIGAwdVBVJWXFUUTxMXQEYGAls8XgBACAAMCwAfFkEVVUJrDVUXDhAPUgFWBEYYFhcKWwYVXlMEBgwJDgoCAFEcEkQNVRcOEAhQAlQBRhgWBhtCBkUKA15rUFxBWldRRApeQQhdGRZdVz1SBlwFWlBBWRRTFUhAW0dEGw1dQVgKHBJWDUVHVUZcQAxBBlMAFk9BVQxCChZATRYDFXFmFkoSVUwQVFtHW1YMFFkTEEcWT0FfEGgWB0FARlxWXlFGRAoSBEYdF1lTQT1VDF8KUVcXClkNREZYEAYWFRVeW1oPRF9GO0FcUBADQAFRAVAWSQ==
 
+
+#EXTINF:-15 tvg-id="Ae.br" tvg-name="zodiaco" group-title="filmes PG ",zodiaco 2
+http://propdsrv.com/live/xstjwfps/1z9eUb7uQ2/34909.m3u8
