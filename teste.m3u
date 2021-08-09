@@ -123,3 +123,6 @@ http://185.212.201.118:8880/live/287994003577/287994003577/31532.ts?token=QhUMAh
 
 #EXTINF:-30 tvg-id="Ae.br" tvg-name="zodiaco" group-title="filmes PG ",mmmmmmmm
 https://proxyts.ml/proxy?path=M:/hls1/premiereclubes-sd-1628458592520.ts
+
+#EXTINF:-30 tvg-id="Ae.br" tvg-name="zodiaco" group-title="filmes PG ",zodiaco 24horas 
+http://cdnrede.com/live/joao6017/6017joao/60897.ts
