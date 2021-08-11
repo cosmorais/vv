@@ -74,6 +74,25 @@ http://pe1b.distv.net:8080/live/ib-3992aurino/ShSLKB8CQ0/114.m3u8
 #EXTINF:-15 tvg-id="Ae.br" tvg-name="AMC" group-title="filmes PG ",AMC
 http://xcui.vitvabc.xyz:8880/287994003323/287994003323/31269
 
+#EXTINF:-15 tvg-id="Ae.br" tvg-name="AMC" group-title="filmes PG ",AMC pg
+http://cdnrede.com:80/joao6017/6017joao/5099
+
+
+#EXTINF:-15 tvg-id="Ae.br" tvg-name="AMC" group-title="filmes PG ",pipoca pg
+http://cdnrede.com:80/joao6017/6017joao/25471
+
+
+#EXTINF:-15 tvg-id="Ae.br" tvg-name="AMC" group-title="filmes PG ",SPACE pg
+http://cdnrede.com:80/joao6017/6017joao/5066
+
+
+#EXTINF:-15 tvg-id="Ae.br" tvg-name="AMC" group-title="filmes PG ",MEGAPIX pg
+http://cdnrede.com:80/joao6017/6017joao/21168
+
+
+#EXTINF:-15 tvg-id="Ae.br" tvg-name="AMC" group-title="filmes PG ",CINEMAX pg
+http://cdnrede.com:80/joao6017/6017joao/5072
+
 
 
 #EXTM3U
@@ -106,16 +125,230 @@ http://xcui.vitvabc.xyz:8880/287994003323/287994003323/16750
 http://xcui.vitvabc.xyz:8880/287994003323/287994003323/16702
 
 
-
-
-
-
-
-
 #EXTINF:-30 tvg-id="Ae.br" tvg-name="zodiaco" group-title="filmes PG ",zodiaco 24horas PG
 http://cdnrede.com/live/joao6017/6017joao/60897.ts
 
 #EXTINF:-30 tvg-id="Ae.br" tvg-name="zodiaco" group-title="filmes PG ",zodiaco 24horas 3d PG
 http://cdnrede.com/live/joao6017/6017joao/67535.ts
+
+
+
+
+#EXTINF:-30 tvg-id="Ae.br" tvg-name="zodiaco" group-title="filmes PG ",PREMIRERE CLUB PG
+http://cdnrede.com:80/joao6017/6017joao/21252
+
+#EXTINF:-30 tvg-id="Ae.br" tvg-name="zodiaco" group-title="filmes PG ",PREMIRERE 2 PG
+http://cdnrede.com:80/joao6017/6017joao/5204
+
+
+#EXTINF:-30 tvg-id="Ae.br" tvg-name="zodiaco" group-title="filmes PG ",PREMIRERE 3 PG
+http://cdnrede.com:80/joao6017/6017joao/5202
+
+
+
+#EXTINF:-30 tvg-id="Ae.br" tvg-name="zodiaco" group-title="filmes PG ",PREMIRERE 4 PG
+http://cdnrede.com:80/joao6017/6017joao/5200
+
+
+#EXTINF:-30 tvg-id="Ae.br" tvg-name="zodiaco" group-title="filmes PG ",PREMIRERE 5 PG
+http://cdnrede.com:80/joao6017/6017joao/5198
+
+
+
+#EXTINF:-30 tvg-id="Ae.br" tvg-name="zodiaco" group-title="filmes PG ",PREMIRERE 6 PG
+http://cdnrede.com:80/joao6017/6017joao/5196
+
+
+
+#EXTINF:-30 tvg-id="Ae.br" tvg-name="zodiaco" group-title="filmes PG ",PREMIRERE 7 PG
+http://cdnrede.com:80/joao6017/6017joao/5194
+
+
+
+
+#EXTINF:-30 tvg-id="Ae.br" tvg-name="zodiaco" group-title="filmes PG ",PREMIRERE 8 PG
+http://cdnrede.com:80/joao6017/6017joao/25587
+
+#EXTINF:-30 tvg-id="Ae.br" tvg-name="zodiaco" group-title="filmes PG ",SPORTV 1 PG
+http://cdnrede.com:80/joao6017/6017joao/5017
+
+
+#EXTINF:-30 tvg-id="Ae.br" tvg-name="zodiaco" group-title="filmes PG ",SPORTV 2 PG
+http://cdnrede.com:80/joao6017/6017joao/5016
+
+
+
+#EXTINF:-30 tvg-id="Ae.br" tvg-name="zodiaco" group-title="filmes PG ",SPORTV 3 PG
+http://cdnrede.com:80/joao6017/6017joao/5014
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="24HS: JASPION SD" tvg-logo="http://static.bldn.vip/logos/desenhos24h/jaspion.png" group-title="SERIES 24HS PREMIUM",24HS: JASPION SD
+http://cdnrede.com:80/joao6017/6017joao/60883
+
+
+#EXTINF:-30 tvg-id="Ae.br" tvg-name="zodiaco" group-title="filmes PG ",CHANGEMAN
+http://cdnrede.com:80/joao6017/6017joao/67189
+
+#EXTINF:-30 tvg-id="Ae.br" tvg-name="zodiaco" group-title="filmes PG ",VAI UE COLA
+http://cdnrede.com:80/joao6017/6017joao/64633
+
+
+
+
+#EXTINF:-30 tvg-id="Ae.br" tvg-name="zodiaco" group-title="filmes PG ",JIRAYA
+http://cdnrede.com:80/joao6017/6017joao/60879
+
+
+
+
+#EXTINF:-1 tvg-id="0" tvg-name="XXX: PLAYBOY FHD H265" tvg-logo="http://static.bldn.vip/logos/adultos/playboy.png" group-title="XXX: ADULTOS",XXX: PLAYBOY FHD H265
+http://cdnrede.com:80/joao6017/6017joao/59825
+#EXTINF:-1 tvg-id="Playboytv.br" tvg-name="XXX: PLAYBOY TV FHD" tvg-logo="http://static.bldn.vip/logos/adultos/playboy.png" group-title="XXX: ADULTOS",XXX: PLAYBOY TV FHD
+http://cdnrede.com:80/joao6017/6017joao/22614
+#EXTINF:-1 tvg-id="Playboytv.br" tvg-name="XXX: PLAYBOY TV HD" tvg-logo="http://static.bldn.vip/logos/adultos/playboy.png" group-title="XXX: ADULTOS",XXX: PLAYBOY TV HD
+http://cdnrede.com:80/joao6017/6017joao/4977
+#EXTINF:-1 tvg-id="Playboytv.br" tvg-name="XXX: PLAYBOY TV SD" tvg-logo="http://static.bldn.vip/logos/adultos/playboy.png" group-title="XXX: ADULTOS",XXX: PLAYBOY TV SD
+http://cdnrede.com:80/joao6017/6017joao/4978
+#EXTINF:-1 tvg-id="Playboytv.br" tvg-name="XXX: PLAYBOY TV SD ²" tvg-logo="http://static.bldn.vip/logos/adultos/playboy.png" group-title="XXX: ADULTOS",XXX: PLAYBOY TV SD ²
+http://cdnrede.com:80/joao6017/6017joao/25719
+#EXTINF:-1 tvg-id="0" tvg-name="XXX: SEXY HOT FHD H265" tvg-logo="http://static.bldn.vip/logos/adultos/sexyhot.png" group-title="XXX: ADULTOS",XXX: SEXY HOT FHD H265
+http://cdnrede.com:80/joao6017/6017joao/61115
+#EXTINF:-1 tvg-id="Sexyhot.br" tvg-name="XXX: SEXY HOT SD" tvg-logo="http://static.bldn.vip/logos/adultos/sexyhot.png" group-title="XXX: ADULTOS",XXX: SEXY HOT SD
+http://cdnrede.com:80/joao6017/6017joao/4975
+#EXTINF:-1 tvg-id="Sexyhot.br" tvg-name="XXX: SEXY HOT SD ²" tvg-logo="http://static.bldn.vip/logos/adultos/sexyhot.png" group-title="XXX: ADULTOS",XXX: SEXY HOT SD ²
+http://cdnrede.com:80/joao6017/6017joao/41753
+#EXTINF:-1 tvg-id="0" tvg-name="XXX: SEXTREME FHD H265" tvg-logo="http://static.bldn.vip/logos/adultos/sextreme.png" group-title="XXX: ADULTOS",XXX: SEXTREME FHD H265
+http://cdnrede.com:80/joao6017/6017joao/61114
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="XXX: SEXTREME SD" tvg-logo="http://static.bldn.vip/logos/adultos/sextreme.png" group-title="XXX: ADULTOS",XXX: SEXTREME SD
+http://cdnrede.com:80/joao6017/6017joao/4976
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="XXX: SEXTREME SD ²" tvg-logo="http://static.bldn.vip/logos/adultos/sextreme.png" group-title="XXX: ADULTOS",XXX: SEXTREME SD ²
+http://cdnrede.com:80/joao6017/6017joao/41754
+#EXTINF:-1 tvg-id="Venus.br" tvg-name="XXX: VENUS FHD H265" tvg-logo="http://static.bldn.vip/logos/adultos/venus.png" group-title="XXX: ADULTOS",XXX: VENUS FHD H265
+http://cdnrede.com:80/joao6017/6017joao/61111
+#EXTINF:-1 tvg-id="Venus.br" tvg-name="XXX: VENUS SD" tvg-logo="http://static.bldn.vip/logos/adultos/venus.png" group-title="XXX: ADULTOS",XXX: VENUS SD
+http://cdnrede.com:80/joao6017/6017joao/4974
+#EXTINF:-1 tvg-id="" tvg-name="BRASILEIRINHAS: A CAMPEA DO ANAL" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",BRASILEIRINHAS: A CAMPEA DO ANAL
+http://cdnrede.com:80/joao6017/6017joao/164573
+#EXTINF:-1 tvg-id="" tvg-name="BRASILEIRINHAS: AGORA E HORA DAS PODEROSAS" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",BRASILEIRINHAS: AGORA E HORA DAS PODEROSAS
+http://cdnrede.com:80/joao6017/6017joao/164574
+#EXTINF:-1 tvg-id="" tvg-name="BRASILEIRINHAS: AMIGAS DA MINHA IRMA" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",BRASILEIRINHAS: AMIGAS DA MINHA IRMA
+http://cdnrede.com:80/joao6017/6017joao/164575
+#EXTINF:-1 tvg-id="" tvg-name="BRASILEIRINHAS: ASSIM VC ME MATA" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",BRASILEIRINHAS: ASSIM VC ME MATA
+http://cdnrede.com:80/joao6017/6017joao/164576
+#EXTINF:-1 tvg-id="" tvg-name="BRASILEIRINHAS: BABANDO DE TESÃO" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",BRASILEIRINHAS: BABANDO DE TESÃO
+http://cdnrede.com:80/joao6017/6017joao/164577
+#EXTINF:-1 tvg-id="" tvg-name="BRASILEIRINHAS: BIG MACK" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",BRASILEIRINHAS: BIG MACK
+http://cdnrede.com:80/joao6017/6017joao/164578
+#EXTINF:-1 tvg-id="" tvg-name="BRASILEIRINHAS: CLUBE PRIVE" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",BRASILEIRINHAS: CLUBE PRIVE
+http://cdnrede.com:80/joao6017/6017joao/164579
+#EXTINF:-1 tvg-id="" tvg-name="BRASILEIRINHAS: DEPOIS DOS 40" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",BRASILEIRINHAS: DEPOIS DOS 40
+http://cdnrede.com:80/joao6017/6017joao/164580
+#EXTINF:-1 tvg-id="" tvg-name="BRASILEIRINHAS: ESTRELAS EM BUSCA DO PRAZER" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",BRASILEIRINHAS: ESTRELAS EM BUSCA DO PRAZER
+http://cdnrede.com:80/joao6017/6017joao/164581
+#EXTINF:-1 tvg-id="" tvg-name="BRASILEIRINHAS: FAZENDO SACANAGEM" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",BRASILEIRINHAS: FAZENDO SACANAGEM
+http://cdnrede.com:80/joao6017/6017joao/164582
+#EXTINF:-1 tvg-id="" tvg-name="XXX: SEXY HOT - ANAL HD" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",XXX: SEXY HOT - ANAL HD
+http://cdnrede.com:80/joao6017/6017joao/64685
+#EXTINF:-1 tvg-id="" tvg-name="XXX: SEXY HOT - ASIÁTICAS HD" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",XXX: SEXY HOT - ASIÁTICAS HD
+http://cdnrede.com:80/joao6017/6017joao/64684
+#EXTINF:-1 tvg-id="" tvg-name="XXX: SEXY HOT - BUNDUDAS HD" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",XXX: SEXY HOT - BUNDUDAS HD
+http://cdnrede.com:80/joao6017/6017joao/64683
+#EXTINF:-1 tvg-id="" tvg-name="XXX: SEXY HOT - COROAS HD" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",XXX: SEXY HOT - COROAS HD
+http://cdnrede.com:80/joao6017/6017joao/64682
+#EXTINF:-1 tvg-id="" tvg-name="XXX: SEXY HOT - GORDINHAS HD" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",XXX: SEXY HOT - GORDINHAS HD
+http://cdnrede.com:80/joao6017/6017joao/64681
+#EXTINF:-1 tvg-id="" tvg-name="XXX: SEXY HOT - ORAL HD" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",XXX: SEXY HOT - ORAL HD
+http://cdnrede.com:80/joao6017/6017joao/64679
+#EXTINF:-1 tvg-id="" tvg-name="XXX: SEXY HOT - RUIVAS FHD" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",XXX: SEXY HOT - RUIVAS FHD
+http://cdnrede.com:80/joao6017/6017joao/64876
+#EXTINF:-1 tvg-id="" tvg-name="XXX: SEXY HOT - RUIVAS HD" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",XXX: SEXY HOT - RUIVAS HD
+http://cdnrede.com:80/joao6017/6017joao/64678
+#EXTINF:-1 tvg-id="" tvg-name="XXX: SEXY HOT - TATUADAS HD" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",XXX: SEXY HOT - TATUADAS HD
+http://cdnrede.com:80/joao6017/6017joao/64677
+#EXTINF:-1 tvg-id="" tvg-name="XXX: 69 TONS DE PICA FHD" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",XXX: 69 TONS DE PICA FHD
+http://cdnrede.com:80/joao6017/6017joao/61376
+#EXTINF:-1 tvg-id="" tvg-name="XXX: A CASA DAS BRASILEIRINHAS S01-05 HD" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",XXX: A CASA DAS BRASILEIRINHAS S01-05 HD
+http://cdnrede.com:80/joao6017/6017joao/62889
+#EXTINF:-1 tvg-id="" tvg-name="XXX: AMIGA DA MINHA MULHER FHD" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",XXX: AMIGA DA MINHA MULHER FHD
+http://cdnrede.com:80/joao6017/6017joao/61375
+#EXTINF:-1 tvg-id="" tvg-name="XXX: ASSÉDIO FHD" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",XXX: ASSÉDIO FHD
+http://cdnrede.com:80/joao6017/6017joao/61374
+#EXTINF:-1 tvg-id="" tvg-name="XXX: BALADAS OU PEPECAS FHD" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",XXX: BALADAS OU PEPECAS FHD
+http://cdnrede.com:80/joao6017/6017joao/64676
+#EXTINF:-1 tvg-id="" tvg-name="XXX: CARNAVAL 2019 FHD" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",XXX: CARNAVAL 2019 FHD
+http://cdnrede.com:80/joao6017/6017joao/61371
+#EXTINF:-1 tvg-id="" tvg-name="XXX: CARNA FUNK 2019 FHD" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",XXX: CARNA FUNK 2019 FHD
+http://cdnrede.com:80/joao6017/6017joao/61372
+#EXTINF:-1 tvg-id="" tvg-name="XXX: CAMINHOS DAS CHANAS FHD" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",XXX: CAMINHOS DAS CHANAS FHD
+http://cdnrede.com:80/joao6017/6017joao/61373
+#EXTINF:-1 tvg-id="" tvg-name="XXX: COPA DO SEXO FHD" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",XXX: COPA DO SEXO FHD
+http://cdnrede.com:80/joao6017/6017joao/64675
+#EXTINF:-1 tvg-id="" tvg-name="XXX: DEPOIS DA ACADEMIA FHD" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",XXX: DEPOIS DA ACADEMIA FHD
+http://cdnrede.com:80/joao6017/6017joao/64674
+#EXTINF:-1 tvg-id="" tvg-name="XXX: ESCOLA DAS BRASILEIRINHAS FHD" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",XXX: ESCOLA DAS BRASILEIRINHAS FHD
+http://cdnrede.com:80/joao6017/6017joao/61370
+#EXTINF:-1 tvg-id="" tvg-name="XXX: FOTOGRAFO TARADO FHD" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",XXX: FOTOGRAFO TARADO FHD
+http://cdnrede.com:80/joao6017/6017joao/61369
+#EXTINF:-1 tvg-id="" tvg-name="XXX: FUNK: ELA SÓ QUER VRAU FHD" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",XXX: FUNK: ELA SÓ QUER VRAU FHD
+http://cdnrede.com:80/joao6017/6017joao/61368
+#EXTINF:-1 tvg-id="" tvg-name="XXX: HARÉM FHD" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",XXX: HARÉM FHD
+http://cdnrede.com:80/joao6017/6017joao/61367
+#EXTINF:-1 tvg-id="" tvg-name="XXX: INVOCAÇÃO DO PRAZER FHD" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",XXX: INVOCAÇÃO DO PRAZER FHD
+http://cdnrede.com:80/joao6017/6017joao/61364
+#EXTINF:-1 tvg-id="" tvg-name="XXX: INSACIÁVEIS FHD" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",XXX: INSACIÁVEIS FHD
+http://cdnrede.com:80/joao6017/6017joao/61365
+#EXTINF:-1 tvg-id="" tvg-name="XXX: ÍNDIAS SAFADAS FHD" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",XXX: ÍNDIAS SAFADAS FHD
+http://cdnrede.com:80/joao6017/6017joao/61366
+#EXTINF:-1 tvg-id="" tvg-name="XXX: MASSAGEM ERÓTICA FHD" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",XXX: MASSAGEM ERÓTICA FHD
+http://cdnrede.com:80/joao6017/6017joao/61363
+#EXTINF:-1 tvg-id="" tvg-name="XXX: MINHA PRIMEIRA VEZ NA TELINHA 4 FHD" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",XXX: MINHA PRIMEIRA VEZ NA TELINHA 4 FHD
+http://cdnrede.com:80/joao6017/6017joao/61362
+#EXTINF:-1 tvg-id="" tvg-name="XXX: NA CAÇAPA FHD" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",XXX: NA CAÇAPA FHD
+http://cdnrede.com:80/joao6017/6017joao/64673
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PAU GRANDE FHD" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",XXX: PAU GRANDE FHD
+http://cdnrede.com:80/joao6017/6017joao/61361
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PISCININHA AMOR FHD" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",XXX: PISCININHA AMOR FHD
+http://cdnrede.com:80/joao6017/6017joao/61360
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PLUGADAS FHD" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",XXX: PLUGADAS FHD
+http://cdnrede.com:80/joao6017/6017joao/61359
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PORNO COM HISTÓRIA FHD" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",XXX: PORNO COM HISTÓRIA FHD
+http://cdnrede.com:80/joao6017/6017joao/64672
+#EXTINF:-1 tvg-id="" tvg-name="XXX: POV PORNO FHD" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",XXX: POV PORNO FHD
+http://cdnrede.com:80/joao6017/6017joao/61358
+#EXTINF:-1 tvg-id="" tvg-name="XXX: QUERO SER ATRIZ PORNO FHD" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",XXX: QUERO SER ATRIZ PORNO FHD
+http://cdnrede.com:80/joao6017/6017joao/64671
+#EXTINF:-1 tvg-id="" tvg-name="XXX: ROTINA FHD" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",XXX: ROTINA FHD
+http://cdnrede.com:80/joao6017/6017joao/61357
+#EXTINF:-1 tvg-id="" tvg-name="XXX: SHOW DE BUNDAS 9 FHD" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",XXX: SHOW DE BUNDAS 9 FHD
+http://cdnrede.com:80/joao6017/6017joao/61355
+#EXTINF:-1 tvg-id="" tvg-name="XXX: SHOW DE PEITOS FHD" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",XXX: SHOW DE PEITOS FHD
+http://cdnrede.com:80/joao6017/6017joao/64669
+#EXTINF:-1 tvg-id="" tvg-name="XXX: SONHOS ERÓTICOS FHD" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",XXX: SONHOS ERÓTICOS FHD
+http://cdnrede.com:80/joao6017/6017joao/64668
+#EXTINF:-1 tvg-id="" tvg-name="XXX: TARAS E FETICHES FHD" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",XXX: TARAS E FETICHES FHD
+http://cdnrede.com:80/joao6017/6017joao/64667
+#EXTINF:-1 tvg-id="" tvg-name="XXX: TÓKIO CREAM PUFFS FHD" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",XXX: TÓKIO CREAM PUFFS FHD
+http://cdnrede.com:80/joao6017/6017joao/61354
+#EXTINF:-1 tvg-id="" tvg-name="XXX: TOMANDO EM DOSE DUPLA FHD" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",XXX: TOMANDO EM DOSE DUPLA FHD
+http://cdnrede.com:80/joao6017/6017joao/61353
+#EXTINF:-1 tvg-id="" tvg-name="XXX: SEXO NA PISCINA FHD" tvg-logo="http://static.bldn.vip/logos/adultos/adulto.png" group-title="XXX: ADULTOS",XXX: SEXO NA PISCINA FHD
+http://cdnrede.com:80/joao6017/6017joao/64670
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
