@@ -74,37 +74,6 @@ http://pe1b.distv.net:8080/live/ib-3992aurino/ShSLKB8CQ0/114.m3u8
 http://xcui.vitvabc.xyz:8880/287994003323/287994003323/16727
 
 
-#EXTINF:-15 tvg-id="Ae.br" tvg-name="AMC" group-title="filmes PG ",MEGAPIX HD² pg joao 
-http://cdnrede.com:80/joao6017/6017joao/21169
-
-
-#EXTINF:-15 tvg-id="Ae.br" tvg-name="AMC" group-title="filmes PG ",AMC pg joao frente
-http://cdnrede.com:80/joao6017/6017joao/5099
-
-
-#EXTM3U
-#EXTINF:-15 tvg-id="Ae.br" tvg-name="AMC" group-title="filmes PG ",AMC HD²
-http://xcui.vitvabc.xyz:8880/287994003323/287994003323/33731
-
-
-
-
-
-#EXTINF:-15 tvg-id="Ae.br" tvg-name="AMC" group-title="filmes PG ",pipoca hd+
-http://xcui.vitvabc.xyz:8880/287994003323/287994003323/16757
-
-
-#EXTINF:-15 tvg-id="Ae.br" tvg-name="AMC" group-title="filmes PG ",SPACE HD²
-http://xcui.vitvabc.xyz:8880/287994003323/287994003323/31284
-
-
-#EXTINF:-30 tvg-id="Ae.br" tvg-name="zodiaco" group-title="filmes PG ",Cinemax HD+
-http://xcui.vitvabc.xyz:8880/287994003323/287994003323/16702
-
-#EXTINF:-30 tvg-id="Ae.br" tvg-name="zodiaco" group-title="filmes PG ",combate hd*
-http://xcui.vitvabc.xyz:8880/287994003323/287994003323/16694
-
-  
 
 #EXTINF:-15 tvg-id="Ae.br" tvg-name="zodiaco" group-title="Animes PG ",zodiaco 12 CASAS
 http://xcui.vitvabc.xyz:8880/287994003323/287994003323/31668
@@ -132,15 +101,10 @@ http://cdnrede.com/live/joao6017/6017joao/67535.ts
 http://cdnrede.com:80/joao6017/6017joao/4953
 
 
-#EXTINF:-30 tvg-id="Ae.br" tvg-name="zodiaco" group-title="filmes PG ",combate hd* pg joao
-http://cdnrede.com:80/joao6017/6017joao/21255
 
 
 #EXTINF:-30 tvg-id="Ae.br" tvg-name="zodiaco" group-title="filmes PG ",VAI UE COLA
 http://cdnrede.com:80/joao6017/6017joao/64633
-
-
-
 
 
 
