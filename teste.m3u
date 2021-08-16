@@ -375,11 +375,8 @@ https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_2000/ind
 
 #EXTM3U
 #EXTINF:-30 tvg-id="Ae.br" tvg-name="zodiaco" group-title="SPORTV PG ",SPORTV 1 PG
+https://newedge.eu-central-1.edge.mycdn.live/live/sportv224ha/sportv224ha_2000/index.m3u8
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/playlist.m3u8
-
-#EXTM3U
-#EXTINF:-30 tvg-id="Ae.br" tvg-name="zodiaco" group-title="SPORTV PG ",SPORTV 1 PG 1
-https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8
 
 
 #EXTM3U
