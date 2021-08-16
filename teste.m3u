@@ -301,7 +301,7 @@ https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs
 
 
 #EXTM3U
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="Premieres" group-title="Premieres PG ",Premier club 
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="Premieres" group-title="PREMIRERE ",Premier club 
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_2000/index.m3u8
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/playlist.m3u8
 
@@ -333,15 +333,12 @@ https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_2000/ind
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/playlist.m3u8
 
 
-
-#EXTM3U
-#EXTINF:-7 tvg-id="Ae.br" tvg-name="zodiaco" group-title="PREMIRERE ",PREMIRERE 7 
+#EXTINF:-7 tvg-id="Ae.br" tvg-name="zodiaco" group-title="PREMIRERE ",PREMIRERE 7 mmmm
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_2000/index.m3u8
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/playlist.m3u8
 
 
-#EXTM3U
-#EXTINF:-8 tvg-id="Ae.br" tvg-name="zodiaco" group-title="PREMIRERE ",PREMIRERE 8 
+#EXTINF:-8 tvg-id="Ae.br" tvg-name="zodiaco" group-title="PREMIRERE ",PREMIRERE 8 mmm
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_2000/index.m3u8
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/playlist.m3u8
 
