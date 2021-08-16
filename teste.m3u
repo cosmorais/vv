@@ -336,51 +336,36 @@ https://newedge.eu-central-1.edge.mycdn.live/live/esportes5/playlist.m3u8
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_2000/index.m3u8
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/playlist.m3u8
 
-
-#EXTINF:-7 tvg-id="Ae.br" tvg-name="PREMIRERE" group-title="PREMIRERE ",PREMIRERE 7 mmmm
-https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/playlist.m3u8
-https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_2000/index.m3u8
-
-
-
 #EXTM3U
-#EXTINF:-8 tvg-id="Ae.br" tvg-name="PREMIRERE" group-title="PREMIRERE ",PREMIRERE 8 mmm
-https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_2000/index.m3u8
-https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/playlist.m3u8
-
-
-
-
-#EXTM3U
-#EXTINF:-30 tvg-id="Ae.br" tvg-name="zodiaco" group-title="Abertos ",Globo RJ 2
+#EXTINF:-30 tvg-id="Ae.br" tvg-name="abertos" group-title="Abertos ",Globo RJ 2
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs1/vintequatrohrs1_2000/index.m3u8
 
 
 #EXTM3U
-#EXTINF:-30 tvg-id="Ae.br" tvg-name="zodiaco" group-title="Abertos ",megapix
-https://geralorigin.eu-central-1.edge.mycdn.live/live/spacesd/video.m3u8?md5=TMKezp9c-HiQQfHVYmtpLg&expires=1629109432
+#EXTINF:-30 tvg-id="Ae.br" tvg-name="filmes" group-title="filmes ",megapix
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/megapix_a6f16ab4_6b37ab4edf712ec44d321b4820b784f061de4f94/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTcyLjY4LjI1LjE5NCI7aToxO3M6Nzc6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDYuMTsgV2luNjQ7IHg2NDsgcnY6OTEuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC85MS4wIjtpOjI7aToxNjI5MTUzMTkzO30%3D
 
 
 
 #EXTM3U
-#EXTINF:-30 tvg-id="Ae.br" tvg-name="zodiaco" group-title="Abertos ",amc
+#EXTINF:-30 tvg-id="Ae.br" tvg-name="filmes" group-title="filmes ",amc
 https://edge-aws.aovivotv.xyz/hls/s:116.203.140.64/amcbrasil_b7f5113f_2e9ec0bfec5752b35351b415d411c9d7e1e3cf64/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTcyLjY4LjI1LjE3MiI7aToxO3M6Nzc6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDYuMTsgV2luNjQ7IHg2NDsgcnY6OTEuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC85MS4wIjtpOjI7aToxNjI5MDc5MzczO30%3D
 
 
 #EXTM3U
-#EXTINF:-30 tvg-id="Ae.br" tvg-name="zodiaco" group-title="Abertos ",Record RJ
+#EXTINF:-30 tvg-id="Ae.br" tvg-name="Aberto" group-title="Abertos ",Record RJ
 https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_360_av-p.m3u8
 
 
 
 
 
-#EXTINF:-30 tvg-id="Ae.br" tvg-name="zodiaco" group-title="Abertos ",espn
+#EXTINF:-30 tvg-id="Ae.br" tvg-name="SPORTV" group-title="SPORTV ",espn
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs5/vintequatrohrs5_2000/index.m3u8
 
 
 #EXTM3U
-#EXTINF:-30 tvg-id="Ae.br" tvg-name="zodiaco" group-title="SPORTV",sportv
+#EXTINF:-30 tvg-id="Ae.br" tvg-name="SPORTV" group-title="SPORTV",SPORTV
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_1000/index.m3u8
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_500/index.m3u8
