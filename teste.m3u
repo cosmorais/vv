@@ -413,8 +413,9 @@ https://geralorigin.eu-central-1.edge.mycdn.live/live/megapixhd/megapixhdha_2000
 
 
 
-
-
+#EXTM3U
+#EXTINF:-30 tvg-id="Ae.br" tvg-name="zodiaco" group-title="Abertos ",/amc
+https://edge-aws.aovivotv.xyz/hls/s:116.203.140.64/amcbrasil_b7f5113f_2e9ec0bfec5752b35351b415d411c9d7e1e3cf64/playlist.m3u8
 
 
 
