@@ -101,30 +101,7 @@ http://xcui.vitvabc.xyz:8880/287994003323/287994003323/16702
 #EXTINF:-30 tvg-id="Ae.br" tvg-name="zodiaco" group-title="filmes PG ",combate hd*
 http://xcui.vitvabc.xyz:8880/287994003323/287994003323/16694
 
-
-#EXTM3U
-#EXTINF:-2 tvg-id="Ae.br" tvg-name="Premieres" group-title="Premieres PG ",Premier club HD² 
-http://xcui.vitvabc.xyz:8880/287994003323/287994003323/31526
-
-#EXTINF:-2 tvg-id="Ae.br" tvg-name="Premieres" group-title="Premieres PG ",Premier 2 HD 
-http://xcui.vitvabc.xyz:8880/287994003323/287994003323/31529
-
-
-#EXTINF:-2 tvg-id="Ae.br" tvg-name="Premieres" group-title="Premieres PG ",Premier 3 HD
-http://xcui.vitvabc.xyz:8880/287994003323/287994003323/31533  
-
-#EXTINF:-2 tvg-id="Ae.br" tvg-name="Premieres" group-title="Premieres PG ",Premier 4 HD
-http://xcui.vitvabc.xyz:8880/287994003323/287994003323/31537
-
-#EXTINF:-2 tvg-id="Ae.br" tvg-name="Premieres" group-title="Premieres PG ",Premier 5 HD
-http://xcui.vitvabc.xyz:8880/287994003323/287994003323/31540
-
-#EXTINF:-2 tvg-id="Ae.br" tvg-name="Premieres" group-title="Premieres PG ",Premier 6 HD
-http://xcui.vitvabc.xyz:8880/287994003323/287994003323/31543
-
-#EXTINF:-2 tvg-id="Ae.br" tvg-name="Premieres" group-title="Premieres PG ",Premier 7 HD
-http://xcui.vitvabc.xyz:8880/287994003323/287994003323/31545
-
+  
 
 #EXTINF:-15 tvg-id="Ae.br" tvg-name="zodiaco" group-title="Animes PG ",zodiaco 12 CASAS
 http://xcui.vitvabc.xyz:8880/287994003323/287994003323/31668
@@ -156,21 +133,13 @@ http://cdnrede.com:80/joao6017/6017joao/4953
 http://cdnrede.com:80/joao6017/6017joao/21255
 
 
-#EXTINF:-1 tvg-id="" tvg-name="24HS: JASPION SD" tvg-logo="http://static.bldn.vip/logos/desenhos24h/jaspion.png" group-title="SERIES 24HS PREMIUM",24HS: JASPION SD
-http://cdnrede.com:80/joao6017/6017joao/60883
-
-
-#EXTINF:-30 tvg-id="Ae.br" tvg-name="zodiaco" group-title="filmes PG ",CHANGEMAN
-http://cdnrede.com:80/joao6017/6017joao/67189
-
 #EXTINF:-30 tvg-id="Ae.br" tvg-name="zodiaco" group-title="filmes PG ",VAI UE COLA
 http://cdnrede.com:80/joao6017/6017joao/64633
 
 
 
 
-#EXTINF:-30 tvg-id="Ae.br" tvg-name="zodiaco" group-title="filmes PG ",JIRAYA
-http://cdnrede.com:80/joao6017/6017joao/60879
+
 
 
 
@@ -329,105 +298,107 @@ https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs
 
 
 
-
+#EXTM3U
 #EXTINF:-2 tvg-id="Ae.br" tvg-name="Premieres" group-title="Premieres PG ",Premier club 
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_2000/index.m3u8
 
-#EXTINF:-2 tvg-id="Ae.br" tvg-name="Premieres" group-title="Premieres PG ",Premier club 1
+#EXTM3U
+#E#EXTM3UXTINF:-2 tvg-id="Ae.br" tvg-name="Premieres" group-title="Premieres PG ",Premier club 1
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/playlist.m3u8
 
-
-#EXTINF:-30 tvg-id="Ae.br" tvg-name="zodiaco" group-title="filmes PG ",PREMIRERE 2 PG
+#EXTM3U
+#EXTINF:-30 tvg-id="Ae.br" tvg-name="esporte" group-title="Premieres PG ",PREMIRERE 2 PG
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes3/esportes3_2000/index.m3u8
 
-#EXTINF:-30 tvg-id="Ae.br" tvg-name="zodiaco" group-title="filmes PG ",PREMIRERE 2 PG 2
+#EXTM3U
+#EXTINF:-30 tvg-id="Ae.br" tvg-name="zodiaco" group-title="Premieres PG ",PREMIRERE 2 PG 2
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes3/playlist.m3u8
 
 
 
 
-
-#EXTINF:-30 tvg-id="Ae.br" tvg-name="zodiaco" group-title="filmes PG ",PREMIRERE 3 PG
+#EXTM3U
+#EXTINF:-30 tvg-id="Ae.br" tvg-name="zodiaco" group-title="Premieres PG ",PREMIRERE 3 PG
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes3/playlist.m3u8
 
-#EXTINF:-30 tvg-id="Ae.br" tvg-name="zodiaco" group-title="filmes PG ",PREMIRERE 3 PG 3
+#EXTM3U
+#EXTINF:-30 tvg-id="Ae.br" tvg-name="zodiaco" group-title="Premieres PG ",PREMIRERE 3 PG 3
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes3/esportes3_2000/index.m3u8
 
 
-
-#EXTINF:-30 tvg-id="Ae.br" tvg-name="zodiaco" group-title="filmes PG ",PREMIRERE 4 PG
+#EXTM3U
+#EXTINF:-30 tvg-id="Ae.br" tvg-name="zodiaco" group-title="Premieres PG ",PREMIRERE 4 PG
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes4/playlist.m3u8
 
-
-#EXTINF:-30 tvg-id="Ae.br" tvg-name="zodiaco" group-title="filmes PG ",PREMIRERE 4 PG 4
+#EXTM3U
+#EXTINF:-30 tvg-id="Ae.br" tvg-name="zodiaco" group-title="Premieres PG ",PREMIRERE 4 PG 4
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes4/esportes4_2000/index.m3u8
 
 
-
-#EXTINF:-30 tvg-id="Ae.br" tvg-name="zodiaco" group-title="filmes PG ",PREMIRERE 5 PG
+#EXTM3U
+#EXTINF:-30 tvg-id="Ae.br" tvg-name="zodiaco" group-title="Premieres PG ",PREMIRERE 5 PG
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes5/playlist.m3u8
 
 
-
-#EXTINF:-30 tvg-id="Ae.br" tvg-name="zodiaco" group-title="filmes PG ",PREMIRERE 5 Pg 5
+#EXTM3U
+#EXTINF:-30 tvg-id="Ae.br" tvg-name="zodiaco" group-title="Premieres PG ",PREMIRERE 5 Pg 5
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes5/esportes5_2000/index.m3u8
 
 
 
-
-#EXTINF:-30 tvg-id="Ae.br" tvg-name="zodiaco" group-title="filmes PG ",PREMIRERE 6 PG
+#EXTM3U
+#EXTINF:-30 tvg-id="Ae.br" tvg-name="zodiaco" group-title="Premieres PG ",PREMIRERE 6 PG
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/playlist.m3u8
 
-
-#EXTINF:-30 tvg-id="Ae.br" tvg-name="zodiaco" group-title="filmes PG ",PREMIRERE 6 PG 6
+#EXTM3U
+#EXTINF:-30 tvg-id="Ae.br" tvg-name="zodiaco" group-title="Premieres PG ",PREMIRERE 6 PG 6
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_2000/index.m3u8
 
 
-
-#EXTINF:-30 tvg-id="Ae.br" tvg-name="zodiaco" group-title="filmes PG ",PREMIRERE 7 PG
+#EXTM3U
+#EXTINF:-30 tvg-id="Ae.br" tvg-name="zodiaco" group-title="Premieres PG ",PREMIRERE 7 PG
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/playlist.m3u8
 
 
-
-#EXTINF:-30 tvg-id="Ae.br" tvg-name="zodiaco" group-title="filmes PG ",PREMIRERE 7 PG 7
+#EXTM3U
+#EXTINF:-30 tvg-id="Ae.br" tvg-name="zodiaco" group-title="Premieres PG ",PREMIRERE 7 PG 7
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_2000/index.m3u8
 
-
-#EXTINF:-30 tvg-id="Ae.br" tvg-name="zodiaco" group-title="filmes PG ",PREMIRERE 8 PG
+#EXTM3U
+#EXTINF:-30 tvg-id="Ae.br" tvg-name="zodiaco" group-title="Premieres PG ",PREMIRERE 8 PG
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/playlist.m3u8
 
-
-#EXTINF:-30 tvg-id="Ae.br" tvg-name="zodiaco" group-title="filmes PG ",PREMIRERE 8 PG 8
+#EXTM3U
+#EXTINF:-30 tvg-id="Ae.br" tvg-name="zodiaco" group-title="Premieres PG ",PREMIRERE 8 PG 8
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_2000/index.m3u8
 
 
-
-#EXTINF:-30 tvg-id="Ae.br" tvg-name="zodiaco" group-title="filmes PG ",SPORTV 1 PG
+#EXTM3U
+#EXTINF:-30 tvg-id="Ae.br" tvg-name="zodiaco" group-title="SPORTV PG ",SPORTV 1 PG
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/playlist.m3u8
 
-#EXTINF:-30 tvg-id="Ae.br" tvg-name="zodiaco" group-title="filmes PG ",SPORTV 1 PG 1
+#EXTM3U
+#EXTINF:-30 tvg-id="Ae.br" tvg-name="zodiaco" group-title="SPORTV PG ",SPORTV 1 PG 1
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8
 
 
-
-#EXTINF:-30 tvg-id="Ae.br" tvg-name="zodiaco" group-title="filmes PG ",SPORTV 2 PG
+#EXTM3U
+#EXTINF:-30 tvg-id="Ae.br" tvg-name="zodiaco" group-title="SPORTV PG ",SPORTV 2 PG
 https://newedge.eu-central-1.edge.mycdn.live/live/sportv224ha/playlist.m3u8
 
 
-
-#EXTINF:-30 tvg-id="Ae.br" tvg-name="zodiaco" group-title="filmes PG ",SPORTV 2 PG 2
+#EXTM3U
+#EXTINF:-30 tvg-id="Ae.br" tvg-name="zodiaco" group-title="SPORTV PG ",SPORTV 2 PG 2
 https://newedge.eu-central-1.edge.mycdn.live/live/sportv224ha/sportv224ha_2000/index.m3u8
 
-
-
-
-#EXTINF:-30 tvg-id="Ae.br" tvg-name="zodiaco" group-title="filmes PG ",SPORTV 3 PG
+#EXTM3U
+#EXTINF:-30 tvg-id="Ae.br" tvg-name="zodiaco" group-title="SPORTV PG ",SPORTV 3 PG
 https://futebolplayhd.com/assistir-sportv-3-ao-vivo-hd-24-horas-online-free/
 
 
-
-#EXTINF:-30 tvg-id="Ae.br" tvg-name="zodiaco" group-title="filmes PG ",SPORTV 3 PG 3
-https://futebolplayhd.com/player/aovivo.php?canal=sportv3sd&pasta=mylive
+#EXTM3U
+#EXTINF:-30 tvg-id="Ae.br" tvg-name="zodiaco" group-title="SPORTV PG ",SPORTV 3 PG 3
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/sportv3sd/video.m3u8
 
 
 
