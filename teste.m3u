@@ -342,17 +342,6 @@ https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs1/vintequatrohrs
 
 
 #EXTM3U
-#EXTINF:-30 tvg-id="Ae.br" tvg-name="filmes" group-title="filmes ",megapix mm
-https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/megapix_a6f16ab4_6b37ab4edf712ec44d321b4820b784f061de4f94/playlist.m3u8?jsf=YTozOntpOjA7czoxMjoiMTcyLjY4LjI2Ljc5IjtpOjE7czo3NzoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0OyBydjo5MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzkxLjAiO2k6MjtpOjE2MjkxNTM2ODc7fQ%3D%3D
-
-
-
-#EXTM3U
-#EXTINF:-30 tvg-id="Ae.br" tvg-name="filmes" group-title="filmes ",amc
-https://edge-aws.aovivotv.xyz/hls/s:116.203.140.64/amcbrasil_b7f5113f_2e9ec0bfec5752b35351b415d411c9d7e1e3cf64/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTcyLjY4LjI1LjE3MiI7aToxO3M6Nzc6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDYuMTsgV2luNjQ7IHg2NDsgcnY6OTEuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC85MS4wIjtpOjI7aToxNjI5MDc5MzczO30%3D
-
-
-#EXTM3U
 #EXTINF:-30 tvg-id="Ae.br" tvg-name="Aberto" group-title="Abertos ",Record RJ
 https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_360_av-p.m3u8
 
@@ -372,6 +361,6 @@ https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_350/index.m3u8
 
 
-
-
+#EXTINF:-30 tvg-id="Ae.br" tvg-name="SPORTV" group-title="SPORTV",kkkkkkkk
+https://m3u9.ml/a/hls1/premiere4.m3u8?mu3zAQc9HC3GbwJq=DDkUdmRR-pnw_Jpj-tNZHA&3U1G7qaTxrPbalZnEx=1629183231
 
