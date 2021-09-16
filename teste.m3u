@@ -5,6 +5,7 @@ http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1n
 
 
 
+
 #EXTINF:-3 tvg-id="Ae.br" tvg-name="Filmes" group-title="filmes ",cynemax 
 https://srv1.painelvideo.com/tvmix/tvmix/chunklist_w324831437.m3u8
 
@@ -189,4 +190,37 @@ https://m3u9.ml/a/hls1/premiere4.m3u8?mu3zAQc9HC3GbwJq=DDkUdmRR-pnw_Jpj-tNZHA&3U
 
 #EXTINF:-15 tvg-id="Ae.br" tvg-name="AMC" group-title="filmes PG ",Globo News HD+
 http://xcui.vitvabc.xyz:8880/287994003323/287994003323/16727
+
+
+#EXTINF:-15 tvg-id="Ae.br" tvg-name="afazenda13" group-title="filmes PG ",afazenda13 camera principal
+https://newedge.eu-central-1.edge.mycdn.live/live/afazenda24hras/afazenda24hras_2000/index.m3u8
+
+#EXTINF:-15 tvg-id="Ae.br" tvg-name="afazenda13" group-title="filmes PG ",afazenda13 camera 1
+https://geralorigin.eu-central-1.edge.mycdn.live/live/afazenda1/video.m3u8?md5=_F44UxZvW-0AnnEMOzBd-w&expires=1631852030
+
+#EXTINF:-15 tvg-id="Ae.br" tvg-name="afazenda13" group-title="filmes PG ",afazenda13 camera 2
+https://geralorigin.eu-central-1.edge.mycdn.live/live/afazenda2/video.m3u8?md5=ULiNEH2f7BTdrIrBOyQiIg&expires=1631852533
+
+#EXTINF:-15 tvg-id="Ae.br" tvg-name="afazenda13" group-title="filmes PG ",afazenda13 camera 3
+https://geralorigin.eu-central-1.edge.mycdn.live/live/afazenda3/video.m3u8?md5=4IRUlBFc1ojHBD3UA3xVqg&expires=1631853712
+
+#EXTINF:-15 tvg-id="Ae.br" tvg-name="afazenda13" group-title="filmes PG ",afazenda13 camera 4
+https://geralorigin.eu-central-1.edge.mycdn.live/live/afazenda4/video.m3u8?md5=96-PhBlYg2Hrr1MzkNuH9A&expires=1631852578
+
+
+#EXTINF:-15 tvg-id="Ae.br" tvg-name="afazenda13" group-title="filmes PG ",afazenda13 camera 6
+https://geralorigin.eu-central-1.edge.mycdn.live/live/afazenda6/video.m3u8?md5=HV6fWcSkDJ_DCSEuR_mVuA&expires=1631853556
+
+#EXTINF:-15 tvg-id="Ae.br" tvg-name="afazenda13" group-title="filmes PG ",afazenda13 camera 8
+https://geralorigin.eu-central-1.edge.mycdn.live/live/afazenda8/video.m3u8?md5=JNDOwJIPQ0FaRgTBqrjnsA&expires=1631852673
+
+
+
+
+
+
+
+
+
+
 
