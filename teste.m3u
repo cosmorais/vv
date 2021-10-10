@@ -76,27 +76,7 @@ http://xcui.vitvabc.xyz:8880/287994003323/287994003323/16727
 
 
 
-#EXTINF:-15 tvg-id="Ae.br" tvg-name="zodiaco" group-title="Animes PG ",zodiaco 12 CASAS
-http://xcui.vitvabc.xyz:8880/287994003323/287994003323/31668
 
-#EXTINF:-15 tvg-id="Ae.br" tvg-name="zodiaco" group-title="Animes PG ",zodiaco SAGA DE ASGARD
-http://xcui.vitvabc.xyz:8880/287994003323/287994003323/31669
-
-#EXTINF:-15 tvg-id="Ae.br" tvg-name="zodiaco" group-title="Animes PG ",zodiaco SAGA DE HADES
-http://xcui.vitvabc.xyz:8880/287994003323/287994003323/31670
-
-#EXTINF:-15 tvg-id="Ae.br" tvg-name="zodiaco" group-title="Animes PG ",zodiaco SAGA DE POSEIDON
-http://xcui.vitvabc.xyz:8880/287994003323/287994003323/31671
-
-#EXTINF:-15 tvg-id="Ae.br" tvg-name="zodiaco" group-title="Animes PG ",zodiaco SAGA SANTUÁRIO
-http://xcui.vitvabc.xyz:8880/287994003323/287994003323/3167
-
-
-#EXTINF:-30 tvg-id="Ae.br" tvg-name="zodiaco" group-title="filmes PG ",zodiaco 24horas PG
-http://cdnrede.com/live/joao6017/6017joao/60897.ts
-
-#EXTINF:-30 tvg-id="Ae.br" tvg-name="zodiaco" group-title="filmes PG ",zodiaco 24horas 3d PG
-http://cdnrede.com/live/joao6017/6017joao/67535.ts
 
 #EXTINF:-30 tvg-id="Ae.br" tvg-name="zodiaco" group-title="filmes PG ",tv senado sd PG
 https://r5---sn-pmcg-bg0d.googlevideo.com/videoplayback?expire=1632170724&ei=hJ5IYY-DLL2G1sQPs76coAo&ip=189.126.81.225&id=i4Wr57yTieI.1&itag=247&aitags=133%2C134%2C135%2C136%2C160%2C242%2C243%2C244%2C247%2C278&source=yt_live_broadcast&requiressl=yes&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fwebm&ns=VojtAO4MNDFL7dqCAaK4pJcG&gir=yes&keepalive=yes&fexp=24001373,24007246&c=WEB_EMBEDDED_PLAYER&n=J2aGLo5R_7wTdQ&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRAIgF2i6ubVg-lhs9xfCXhCYKogGo1a3L1p8ieGRsRyBeEECIG0utc0aUMInkMcdloaCF8TZ8tcoxSHIT2RoCWMBBcqm&alr=yes&cpn=E2eJqsGMb1v5UIsn&cver=1.20210915.1.2&redirect_counter=1&cm2rm=sn-j5mp5nvoapox-bpbe7e&cms_redirect=yes&mh=Lt&mm=29&mn=sn-pmcg-bg0d&ms=rdu&mt=1632148863&mv=m&mvi=5&pl=24&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRQIgB0EhgG4fYLJWz9TtTlyWZS8sJSlGmYCjozVy8BXhPeYCIQCHGjq05f0IEQYZuJx1OnMm93YBXWT9TTVrAAAipazV-Q%3D%3D&headm=4&rn=3&rbuf=0
@@ -107,7 +87,16 @@ https://stream3.camara.gov.br/tv1/manifest.m3u8
 
 
 #EXTINF:-30 tvg-id="Ae.br" tvg-name="zodiaco" group-title="filmes PG ",AMC
-http://003.lbsrv.me:8080/live/socorrodeca/so123456/72814.m3u8?token=TRpZAEBYRlgWVgRVAQVWXAQCAlEBVwVSBgIEV1UEVVcGAFdTBFFTVVASGRFLEkZdBww+W1MXXFYHXAcHSBJBQVNKbghXEl5AAAcNBhpKFkwPDAQQDQVKQ0UNUhFeEgYAAwoTTRFVHBZRQltSVDlQXRAIAlcVDwgUWQgaEQtea1ZTVVAPVxJeQAUSGRFRFUQaXA8UXlsZRANcEERSEFUWCBQMCFERHEYBW0VbR0ofFgJEIzMQGxcDGUEBWEANX1oQDBpcUkYIRk4WWUZsSgNHTBQEAF9SR0RbF1QUH0ZdVUppW14PXVUHFl1fW0AaXBYJRE1DX1hbDxVaFmlDDVQWCBQKA1IAEhk=
+http://vipeiptv.com:25461/fernandocgr2021/2021cgrfernando/856080
+
+
+#EXTINF:-30 tvg-id="Ae.br" tvg-name="zodiaco" group-title="filmes PG ",CINEMAX
+http://vipeiptv.com:25461/fernandocgr2021/2021cgrfernando/856094
+
+
+#EXTINF:-30 tvg-id="Ae.br" tvg-name="zodiaco" group-title="filmes PG ",SPACE SD
+http://vipeiptv.com:25461/fernandocgr2021/2021cgrfernando/856133
+
 
 
 
@@ -219,9 +208,68 @@ https://r1---sn-j5mp5nvoapox-bpbe.googlevideo.com/videoplayback?expire=163337447
 
 
 
+#EXTINF:-15 tvg-id="Ae.br" tvg-name="afazenda13" group-title="filmes PG ",BAND
+https://m3u9.ml/b/hls1/band.m3u8?mu3zAQc9HC3GbwJq=O_2Jvh03RWivyHjgebFyfw&3U1G7qaTxrPbalZnEx=1633913861
+
+
+#EXTINF:-15 tvg-id="Ae.br" tvg-name="afazenda13" group-title="filmes PG ",BAND 2
+http://168.205.87.198:8555/live/123456/123456/19.m3u8
+
+#EXTINF:-15 tvg-id="Ae.br" tvg-name="afazenda13" group-title="filmes PG ",BAND 3
+http://vipeiptv.com:25461/fernandocgr2021/2021cgrfernando/856507
+
+#EXTINF:-15 tvg-id="Ae.br" tvg-name="afazenda13" group-title="filmes PG ",BAND rj
+http://vipeiptv.com:25461/fernandocgr2021/2021cgrfernando/981590
 
 
 
+
+#EXTINF:-15 tvg-id="Ae.br" tvg-name="afazenda13" group-title="filmes PG ",SENADO
+http://168.205.87.198:8555/live/123456/123456/139.m3u8
+
+
+
+#EXTINF:-15 tvg-id="Ae.br" tvg-name="afazenda13" group-title="filmes PG ",SENADO 2
+http://vipeiptv.com:25461/fernandocgr2021/2021cgrfernando/981564
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="FAZENDA CAM 1 ALT" tvg-logo="https://1.bp.blogspot.com/-9Pws0Nf9hv0/YBxY9l90jKI/AAAAAAAAJz0/xFF-NrD3Vz04sPs9n3hUuWxL9sK5TQ5cwCLcBGAsYHQ/s300/a%2Bfazenda.png" group-title="A FAZENDA 2021",FAZENDA CAM 1 ALT
+http://vipeiptv.com:25461/fernandocgr2021/2021cgrfernando/981572
+#EXTINF:-1 tvg-id="" tvg-name="FAZENDA CAM 2 ALT" tvg-logo="http://vipeiptv.com:25461/images/75060617d67d41d20704edfa1f712a33.png" group-title="A FAZENDA 2021",FAZENDA CAM 2 ALT
+http://vipeiptv.com:25461/fernandocgr2021/2021cgrfernando/981573
+#EXTINF:-1 tvg-id="" tvg-name="FAZENDA CAM 3 ALT" tvg-logo="http://vipeiptv.com:25461/images/75060617d67d41d20704edfa1f712a33.png" group-title="A FAZENDA 2021",FAZENDA CAM 3 ALT
+http://vipeiptv.com:25461/fernandocgr2021/2021cgrfernando/981574
+#EXTINF:-1 tvg-id="" tvg-name="FAZENDA CAM 4 ALT" tvg-logo="http://vipeiptv.com:25461/images/75060617d67d41d20704edfa1f712a33.png" group-title="A FAZENDA 2021",FAZENDA CAM 4 ALT
+http://vipeiptv.com:25461/fernandocgr2021/2021cgrfernando/981575
+#EXTINF:-1 tvg-id="" tvg-name="FAZENDA CAM 5 ALT" tvg-logo="http://vipeiptv.com:25461/images/75060617d67d41d20704edfa1f712a33.png" group-title="A FAZENDA 2021",FAZENDA CAM 5 ALT
+http://vipeiptv.com:25461/fernandocgr2021/2021cgrfernando/981576
+#EXTINF:-1 tvg-id="" tvg-name="FAZENDA CAM 6 ALT" tvg-logo="http://vipeiptv.com:25461/images/75060617d67d41d20704edfa1f712a33.png" group-title="A FAZENDA 2021",FAZENDA CAM 6 ALT
+http://vipeiptv.com:25461/fernandocgr2021/2021cgrfernando/981577
+#EXTINF:-1 tvg-id="" tvg-name="FAZENDA CAM 7 ALT" tvg-logo="http://vipeiptv.com:25461/images/75060617d67d41d20704edfa1f712a33.png" group-title="A FAZENDA 2021",FAZENDA CAM 7 ALT
+http://vipeiptv.com:25461/fernandocgr2021/2021cgrfernando/981578
+#EXTINF:-1 tvg-id="" tvg-name="FAZENDA CAM 8 ALT" tvg-logo="http://vipeiptv.com:25461/images/75060617d67d41d20704edfa1f712a33.png" group-title="A FAZENDA 2021",FAZENDA CAM 8 ALT
+http://vipeiptv.com:25461/fernandocgr2021/2021cgrfernando/981579
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Cavaleiros dos Zodiacos 1" tvg-logo="http://listaccess.me:8880/images/8LrUkSQwQl6WOjA0orZOsAIEOHL_small.jpg" group-title="FILMES | ANIMAÇÃO",Cavaleiros dos Zodiacos 1
+http://vipeiptv.com:25461/movie/fernandocgr2021/2021cgrfernando/963891.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cavaleiros dos Zodiacos 2" tvg-logo="http://listaccess.me:8880/images/aAQvnCAtgpabkXFkR2V0iWCMoLL_small.jpg" group-title="FILMES | ANIMAÇÃO",Cavaleiros dos Zodiacos 2
+http://vipeiptv.com:25461/movie/fernandocgr2021/2021cgrfernando/963892.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cavaleiros dos Zodiacos 3" tvg-logo="http://listaccess.me:8880/images/9OzDtnYHtb0yjZBFHjGxzBJp5fI_small.jpg" group-title="FILMES | ANIMAÇÃO",Cavaleiros dos Zodiacos 3
+http://vipeiptv.com:25461/movie/fernandocgr2021/2021cgrfernando/963893.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cavaleiros dos Zodiacos 4" tvg-logo="http://listaccess.me:8880/images/mf8WVTinuFnAsDUsAslSB84ikOD_small.jpg" group-title="FILMES | ANIMAÇÃO",Cavaleiros dos Zodiacos 4
+http://vipeiptv.com:25461/movie/fernandocgr2021/2021cgrfernando/963894.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cavaleiros dos Zodiacos 5" tvg-logo="http://listaccess.me:8880/images/aiINSHWwgzHck62hnG7Omw5NVvI_small.jpg" group-title="FILMES | ANIMAÇÃO",Cavaleiros dos Zodiacos 5
+http://vipeiptv.com:25461/movie/fernandocgr2021/2021cgrfernando/963895.mp4
 
 
 
