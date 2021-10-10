@@ -208,9 +208,6 @@ https://r1---sn-j5mp5nvoapox-bpbe.googlevideo.com/videoplayback?expire=163337447
 
 
 
-#EXTINF:-15 tvg-id="Ae.br" tvg-name="afazenda13" group-title="filmes PG ",BAND
-https://m3u9.ml/b/hls1/band.m3u8?mu3zAQc9HC3GbwJq=O_2Jvh03RWivyHjgebFyfw&3U1G7qaTxrPbalZnEx=1633913861
-
 
 #EXTINF:-15 tvg-id="Ae.br" tvg-name="afazenda13" group-title="filmes PG ",BAND 2
 http://168.205.87.198:8555/live/123456/123456/19.m3u8
