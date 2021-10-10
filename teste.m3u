@@ -226,14 +226,6 @@ http://168.205.87.198:8555/live/123456/123456/139.m3u8
 
 
 
-#EXTINF:-15 tvg-id="Ae.br" tvg-name="afazenda13" group-title="filmes PG ",SENADO 2
-http://vipeiptv.com:25461/fernandocgr2021/2021cgrfernando/981564
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="" tvg-name="FAZENDA CAM 1 ALT" tvg-logo="https://1.bp.blogspot.com/-9Pws0Nf9hv0/YBxY9l90jKI/AAAAAAAAJz0/xFF-NrD3Vz04sPs9n3hUuWxL9sK5TQ5cwCLcBGAsYHQ/s300/a%2Bfazenda.png" group-title="A FAZENDA 2021",FAZENDA CAM 1 ALT
 http://vipeiptv.com:25461/fernandocgr2021/2021cgrfernando/981572
 #EXTINF:-1 tvg-id="" tvg-name="FAZENDA CAM 2 ALT" tvg-logo="http://vipeiptv.com:25461/images/75060617d67d41d20704edfa1f712a33.png" group-title="A FAZENDA 2021",FAZENDA CAM 2 ALT
