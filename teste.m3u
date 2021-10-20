@@ -190,7 +190,7 @@ https://r1---sn-j5mp5nvoapox-bpbe.googlevideo.com/videoplayback?expire=163337447
 http://168.205.87.198:8555/live/123456/123456/19.m3u8
 
 #EXTINF:-15 tvg-id="Ae.br" tvg-name="afazenda13" group-title="filmes PG ",BAND 3
-http://vipeiptv.com:25461/fernandocgr2021/2021cgrfernando/856507
+http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
 
 #EXTINF:-15 tvg-id="Ae.br" tvg-name="afazenda13" group-title="filmes PG ",BAND rj
 http://vipeiptv.com:25461/fernandocgr2021/2021cgrfernando/981590
@@ -201,24 +201,15 @@ http://vipeiptv.com:25461/fernandocgr2021/2021cgrfernando/981590
 #EXTINF:-15 tvg-id="Ae.br" tvg-name="afazenda13" group-title="filmes PG ",SENADO
 http://168.205.87.198:8555/live/123456/123456/139.m3u8
 
+#EXTINF:-15 tvg-id="Ae.br" tvg-name="afazenda13" group-title="filmes PG ",HBO2
+http://189.85.164.198:2086/live/HBO2/720p.m3u8
+
+#EXTINF:-15 tvg-id="Ae.br" tvg-name="afazenda13" group-title="filmes PG ",HBO
+http://189.85.164.198:2086/live/HBO1/720p_000010464.ts
 
 
-#EXTINF:-1 tvg-id="" tvg-name="FAZENDA CAM 1 ALT" tvg-logo="https://1.bp.blogspot.com/-9Pws0Nf9hv0/YBxY9l90jKI/AAAAAAAAJz0/xFF-NrD3Vz04sPs9n3hUuWxL9sK5TQ5cwCLcBGAsYHQ/s300/a%2Bfazenda.png" group-title="A FAZENDA 2021",FAZENDA CAM 1 ALT
-http://vipeiptv.com:25461/fernandocgr2021/2021cgrfernando/981572
-#EXTINF:-1 tvg-id="" tvg-name="FAZENDA CAM 2 ALT" tvg-logo="http://vipeiptv.com:25461/images/75060617d67d41d20704edfa1f712a33.png" group-title="A FAZENDA 2021",FAZENDA CAM 2 ALT
-http://vipeiptv.com:25461/fernandocgr2021/2021cgrfernando/981573
-#EXTINF:-1 tvg-id="" tvg-name="FAZENDA CAM 3 ALT" tvg-logo="http://vipeiptv.com:25461/images/75060617d67d41d20704edfa1f712a33.png" group-title="A FAZENDA 2021",FAZENDA CAM 3 ALT
-http://vipeiptv.com:25461/fernandocgr2021/2021cgrfernando/981574
-#EXTINF:-1 tvg-id="" tvg-name="FAZENDA CAM 4 ALT" tvg-logo="http://vipeiptv.com:25461/images/75060617d67d41d20704edfa1f712a33.png" group-title="A FAZENDA 2021",FAZENDA CAM 4 ALT
-http://vipeiptv.com:25461/fernandocgr2021/2021cgrfernando/981575
-#EXTINF:-1 tvg-id="" tvg-name="FAZENDA CAM 5 ALT" tvg-logo="http://vipeiptv.com:25461/images/75060617d67d41d20704edfa1f712a33.png" group-title="A FAZENDA 2021",FAZENDA CAM 5 ALT
-http://vipeiptv.com:25461/fernandocgr2021/2021cgrfernando/981576
-#EXTINF:-1 tvg-id="" tvg-name="FAZENDA CAM 6 ALT" tvg-logo="http://vipeiptv.com:25461/images/75060617d67d41d20704edfa1f712a33.png" group-title="A FAZENDA 2021",FAZENDA CAM 6 ALT
-http://vipeiptv.com:25461/fernandocgr2021/2021cgrfernando/981577
-#EXTINF:-1 tvg-id="" tvg-name="FAZENDA CAM 7 ALT" tvg-logo="http://vipeiptv.com:25461/images/75060617d67d41d20704edfa1f712a33.png" group-title="A FAZENDA 2021",FAZENDA CAM 7 ALT
-http://vipeiptv.com:25461/fernandocgr2021/2021cgrfernando/981578
-#EXTINF:-1 tvg-id="" tvg-name="FAZENDA CAM 8 ALT" tvg-logo="http://vipeiptv.com:25461/images/75060617d67d41d20704edfa1f712a33.png" group-title="A FAZENDA 2021",FAZENDA CAM 8 ALT
-http://vipeiptv.com:25461/fernandocgr2021/2021cgrfernando/981579
+#EXTINF:-15 tvg-id="Ae.br" tvg-name="TCPipoca" group-title="filmes PG ",SPACE
+http://201.20.127.2:2086/live/SPACE/360p.m3u8
 
-
-
+#EXTINF:-15 tvg-id="Ae.br" tvg-name="TCPipoca" group-title="filmes PG ",TCPipoca
+http://189.85.164.198:2086/live/TCPipocaHD/360p.m3u8
