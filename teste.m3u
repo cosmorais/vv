@@ -82,24 +82,27 @@ https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTINF:-1 tvg-id="Ae.br" tvg-name="PREMIRERE" group-title="PREMIRERE ",Premier club 1
 http://103.195.103.31:2086/streams/61_.m3u8
 
+
 #EXTINF:-1 tvg-id="Ae.br" tvg-name="PREMIRERE" group-title="PREMIRERE ",Premier
 http://103.195.103.31:2086/streams/63_.m3u8
 
-
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="PREMIRERE" group-title="PREMIRERE ",PREMIER CLUB | HD PAGO
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/169723
 
 
 
 #EXTM3U
 #EXTINF:-2 tvg-id="Ae.br" tvg-name="PREMIRERE" group-title="PREMIRERE ",PREMIRERE 2 
-
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/169725
 
 #EXTM3U
 #EXTINF:-3 tvg-id="Ae.br" tvg-name="PREMIRERE" group-title="PREMIRERE ",PREMIRERE 3 
-
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/169726
 
 
 #EXTM3U
 #EXTINF:-4 tvg-id="Ae.br" tvg-name="PREMIRERE" group-title="PREMIRERE ",PREMIRERE 4 
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/169727
 https://edge-aws.aovivotv.xyz/hls/s:162.55.160.44/premiere4_142e9ae3_97e089da3206d21bc2fa5b7980e895d59f361ad7/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTcyLjcwLjEwNS4xMzIiO2k6MTtzOjc3OiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCA2LjE7IFdpbjY0OyB4NjQ7IHJ2OjkzLjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvOTMuMCI7aToyO2k6MTYzNTYyMTEyNzt9
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes4/esportes4_2000/index.m3u8
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes4/playlist.m3u8
@@ -107,13 +110,22 @@ https://newedge.eu-central-1.edge.mycdn.live/live/esportes4/playlist.m3u8
 
 #EXTM3U
 #EXTINF:-5 tvg-id="Ae.br" tvg-name="PREMIRERE" group-title="PREMIRERE ",PREMIRERE 5 
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/169728
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes5/esportes5_2000/index.m3u8
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes5/playlist.m3u8
 
 #EXTM3U
 #EXTINF:-6 tvg-id="Ae.br" tvg-name="PREMIRERE" group-title="PREMIRERE ",PREMIRERE 6 
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/169729
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_2000/index.m3u8
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/playlist.m3u8
+
+#EXTINF:-1,41 | PREMIER CLUB 7 | HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/169730
+
+#EXTINF:-1,42 | PREMIER CLUB 8 | HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/169731
+
 
 
 #EXTM3U
@@ -264,5 +276,17 @@ http://103.195.103.31:2086/streams/216_.m3u8
 #EXTINF:-15 tvg-id="Ae.br" tvg-name="AMC" group-title="filmes PG ",sexy hot
 http://103.195.103.31:2086/streams/217_.m3u8
 
+
+
+
+#EXTINF:-1,43 | SPORTV | HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/169732
+#EXTINF:-1,44 | SPORTV 2 | HD 
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/169733
+#EXTINF:-1,45 | SPORTV 3 | HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/169734
+
+#EXTINF:-1,24/7 |  Los caballeros del Zodiaco HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/168083
 
 
