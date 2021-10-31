@@ -6,6 +6,10 @@ http://103.195.103.31:2086/streams/2_.m3u8
 https://video01.kshost.com.br:4443/clodoaldo3320/clodoaldo3320/chunklist_w516730791.m3u8
 
 
+#EXTINF:-3 tvg-id="Ae.br" tvg-name="Filmes" group-title="filmes ",A PLUS TV
+https://stmv1.srvif.com/aplus/aplus/chunklist_w966743469.m3u8
+
+
 #EXTINF:-3 tvg-id="Ae.br" tvg-name="Filmes" group-title="filmes ",cynemax 
 https://srv1.painelvideo.com/tvmix/tvmix/chunklist_w324831437.m3u8
 
@@ -36,8 +40,7 @@ https://stmv1.srvstm.com/webradiocidade/webradiocidade/chunklist_w1281420894.m3u
 https://video01.kshost.com.br:4443/clodoaldo3320/clodoaldo3320/chunklist_w1237587292.m3u8
 
 #EXTINF:-11 tvg-id="Ae.br" tvg-name="Filmes" group-title="filmes ",CHANNEL 1 
-https://stmv1.srvstm.com/channel1/channel1/chunklist_w805122265.m3u8
-
+https://stmv1.srvif.com/channel1/channel1/chunklist_w1167270397.m3u8
 
 #EXTINF:-12 tvg-id="Ae.br" tvg-name="Filmes" group-title="filmes ",ALL SPORTS TV 
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w1623708771.m3u8
@@ -77,8 +80,7 @@ https://stream3.camara.gov.br/tv1/manifest.m3u8
 
 
 #EXTINF:-1 tvg-id="Ae.br" tvg-name="PREMIRERE" group-title="PREMIRERE ",Premier club 1
-http://103.195.103.31:2086/streams/72_.m3u8
-http://103.195.103.31:2086/streams/191_.m3u8
+http://103.195.103.31:2086/streams/61_.m3u8
 
 
 
