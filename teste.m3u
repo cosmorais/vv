@@ -120,7 +120,11 @@ https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/playlist.m3u8
 #EXTINF:-30 tvg-id="Ae.br" tvg-name="Aberto" group-title="Abertos ",Record RJ
 https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_360_av-p.m3u8
 
+#EXTINF:-30 tvg-id="Ae.br" tvg-name="Aberto" group-title="Abertos ",ShoWdoESPORTE
+http://103.195.103.31:2086/streams/260_.m3u8
 
+#EXTINF:-30 tvg-id="Ae.br" tvg-name="Aberto" group-title="Abertos ",JOGO
+http://103.195.103.31:2086/streams/330_.m3u8
 
 
 
@@ -230,6 +234,11 @@ http://103.195.103.31:2086/streams/3_.m3u8
 
 #EXTINF:-15 tvg-id="Ae.br" tvg-name="AMC" group-title="filmes PG ",MEGAPIX
 http://103.195.103.31:2086/streams/171_.m3u8
+
+#EXTINF:-15 tvg-id="Ae.br" tvg-name="AMC" group-title="filmes PG ",CINEMAX
+http://103.195.103.31:2086/streams/242_.m3u8
+
+
 
 #EXTINF:-15 tvg-id="Ae.br" tvg-name="AMC" group-title="filmes PG ",SPACE
 http://103.195.103.31:2086/streams/200_.m3u8
