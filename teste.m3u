@@ -200,6 +200,7 @@ http://103.195.103.31:2086/streams/214_.m3u8
 
 #EXTINF:-15 tvg-id="Ae.br" tvg-name="afazenda13" group-title="filmes PG ",cult
 http://103.195.103.31:2086/streams/204_.m3u8
+http://103.195.103.31:2086/streams/203_.m3u8
 
 
 #EXTINF:-15 tvg-id="Ae.br" tvg-name="TCPipoca" group-title="filmes PG ",PREMIUM
@@ -227,6 +228,8 @@ http://103.195.103.31:2086/streams/143_.m3u8
 #EXTINF:-15 tvg-id="Ae.br" tvg-name="AMC" group-title="filmes PG ",AMC
 http://103.195.103.31:2086/streams/3_.m3u8
 
+#EXTINF:-15 tvg-id="Ae.br" tvg-name="AMC" group-title="filmes PG ",MEGAPIX
+http://103.195.103.31:2086/streams/171_.m3u8
 
 #EXTINF:-15 tvg-id="Ae.br" tvg-name="AMC" group-title="filmes PG ",SPACE
 http://103.195.103.31:2086/streams/200_.m3u8
@@ -245,3 +248,12 @@ http://103.195.103.31:2086/streams/111_.m3u8
 
 #EXTINF:-15 tvg-id="Ae.br" tvg-name="AMC" group-title="filmes PG ",MTV
 http://103.195.103.31:2086/streams/141_.m3u8
+
+#EXTINF:-15 tvg-id="Ae.br" tvg-name="AMC" group-title="filmes PG ",sexy extreme
+http://103.195.103.31:2086/streams/216_.m3u8
+
+#EXTINF:-15 tvg-id="Ae.br" tvg-name="AMC" group-title="filmes PG ",sexy hot
+http://103.195.103.31:2086/streams/217_.m3u8
+
+
+
