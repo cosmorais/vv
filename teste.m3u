@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-2 tvg-id="Ae.br" tvg-name="Globo RJ" group-title="Abertos ",Globo RJ
-http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_655/playlist.m3u8
+http://103.195.103.31:2086/streams/2_.m3u8
 
-
-
+#EXTINF:-3 tvg-id="Ae.br" tvg-name="Filmes" group-title="filmes ",LONDRINA TV
+https://video01.kshost.com.br:4443/clodoaldo3320/clodoaldo3320/chunklist_w516730791.m3u8
 
 
 #EXTINF:-3 tvg-id="Ae.br" tvg-name="Filmes" group-title="filmes ",cynemax 
@@ -109,10 +109,6 @@ https://newedge.eu-central-1.edge.mycdn.live/live/esportes5/playlist.m3u8
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_2000/index.m3u8
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/playlist.m3u8
 
-#EXTM3U
-#EXTINF:-30 tvg-id="Ae.br" tvg-name="abertos" group-title="Abertos ",Globo RJ 2
-https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs1/vintequatrohrs1_2000/index.m3u8
-
 
 #EXTM3U
 #EXTINF:-30 tvg-id="Ae.br" tvg-name="Aberto" group-title="Abertos ",Record RJ
@@ -179,6 +175,10 @@ http://vipeiptv.com:25461/fernandocgr2021/2021cgrfernando/981590
 #EXTINF:-15 tvg-id="Ae.br" tvg-name="afazenda13" group-title="filmes PG ",SENADO
 http://168.205.87.198:8555/live/123456/123456/139.m3u8
 
+#EXTINF:-15 tvg-id="Ae.br" tvg-name="afazenda13" group-title="filmes PG ",SENADO E 2
+http://103.195.103.31:2086/streams/44_.m3u8
+
+
 #EXTINF:-15 tvg-id="Ae.br" tvg-name="afazenda13" group-title="filmes PG ",ACTION
 http://103.195.103.31:2086/streams/214_.m3u8
 
@@ -209,10 +209,8 @@ http://103.195.103.31:2086/streams/143_.m3u8
 
 
 #EXTINF:-15 tvg-id="Ae.br" tvg-name="AMC" group-title="filmes PG ",AMC
-http://50.7.69.210/C44E74526807/C44E74526807/4787?token=SxYMUEZcEANAD1pQAAEMV1dSV1RWVQdWDQEEVlEGUAcCUFdUUABWAQYUTxMXQEYGAls8XgBACAADAQAfFkEVVUJrDVUXDhAPUgFWBEYYFhcKWwYVXlMEBwEPBQoDBlccEkQNVRcOEAhaAFoGRhgWBhtCBkUKA15rUFxBWldRRApeQQhdGRZdVz1SBlwFWlBBWRRTFUhAW0dEGw1dQVgKHBJWDUVHVUZcQAxBA1cHBEFPFABYEQxGRk0bDRFhZ0QcElEcRVBaQVANWEELRkBHQU8UCkQ7EFdHQEtSUllRFBIKFlQTGRZfWBppAF4KWlEAF18MWRdACBYGGxsRWVsIWURbFm5FXVYbWBRXAVMHFh4=
+http://103.195.103.31:2086/streams/3_.m3u8
 
-#EXTINF:-15 tvg-id="Ae.br" tvg-name="AMC" group-title="filmes PG ",ZODIACO
-http://50.7.69.210/C44E74526807/C44E74526807/4827?token=SxYMUEZcEANAV1QFUlZSVgJQBVZUAQpVB1hRB1FSBFYGDVwHAgcHDAAUTxMXQEYGAls8XgBACAAMCwAfFkEVVUJrDVUXDhAPUgFWBEYYFhcKWwYVXlMEBwEPBAMFAV4cEkQNVRcOEApQAlIDRhgWBhtCBkUKA15rUFxBWldRRApeQQhdGRZdVz1SBlwFWlBBWRRTFUhAW0dEGw1dQVgKHBJWDUVHVUZcQAxBAFEGB0FPFABYEQxGRk0bDRFhZ0QcElEcRVBaQVANWEELRkBHQU8UCkQ7EFdHQEtSUllRFBIKFlQTGRZfWBppAF4KWlEAF18MWRdACBYGGxsRWVsIWURbFm5FXVYbWBRSCFAHA0Ee=
 
 #EXTINF:-15 tvg-id="Ae.br" tvg-name="AMC" group-title="filmes PG ",MTV
 http://23.237.190.26//C44E74526807/C44E74526807/4737?token=SxYMUEZcEANAAVBUXARWVAcDUFNXUQtVVV9RBlABAwkEDQUBUFcAC1YUTxMXQEYGAls8XgBACAADCgAfFkEVVUJrDVUXDhAPUgFWBEYYFhcKWwYVXlMEBwEPBAIFAFAcEkQNVRcOEAhVBFUERhgWBhtCBkUKA15rUFxBWldRRApeQQhdGRZdVz1SBlwFWlBBWRRTFUhAW0dEGw1dQVgKHBJWDUVHVUZcQAxBA1AEBUFPFABYEQxGRk0bDRFhZ0QcElEcRVBaQVANWEELRkBHQU8UCkQ7EFdHQEtSUllRFBIKFlQTGRZfWBppAF4KWlEAF18MWRdACBYGGxsRWVsIWURbFm5FXVYbWBRRA1AEBUEe
