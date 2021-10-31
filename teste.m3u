@@ -131,7 +131,8 @@ http://103.195.103.31:2086/streams/71_.m3u8
 http://103.195.103.31:2086/streams/55_.m3u8
 
 
-
+#EXTINF:-30 tvg-id="Ae.br" tvg-name="SPORTV" group-title="SPORTV",ESPN ESPORTE
+http://103.195.103.31:2086/streams/54_.m3u8
 
 
 #EXTINF:-15 tvg-id="Ae.br" tvg-name="afazenda13" group-title="filmes PG ",AFAZENDA 13 camera principal
@@ -210,6 +211,10 @@ http://103.195.103.31:2086/streams/143_.m3u8
 
 #EXTINF:-15 tvg-id="Ae.br" tvg-name="AMC" group-title="filmes PG ",AMC
 http://103.195.103.31:2086/streams/3_.m3u8
+
+
+#EXTINF:-15 tvg-id="Ae.br" tvg-name="AMC" group-title="filmes PG ",COMBATE
+http://103.195.103.31:2086/streams/49_.m3u8
 
 
 #EXTINF:-15 tvg-id="Ae.br" tvg-name="AMC" group-title="filmes PG ",MTV
