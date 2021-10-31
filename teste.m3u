@@ -77,6 +77,7 @@ https://stream3.camara.gov.br/tv1/manifest.m3u8
 
 
 #EXTINF:-1 tvg-id="Ae.br" tvg-name="PREMIRERE" group-title="PREMIRERE ",Premier club 1
+http://103.195.103.31:2086/streams/72_.m3u8
 http://103.195.103.31:2086/streams/191_.m3u8
 
 
@@ -138,7 +139,7 @@ http://103.195.103.31:2086/streams/55_.m3u8
 
 
 #EXTINF:-15 tvg-id="Ae.br" tvg-name="afazenda13" group-title="filmes PG ",AFAZENDA 13 camera principal
-https://newedge.eu-central-1.edge.mycdn.live/live/afazenda24hras/afazenda24hras_2000/index.m3u8
+http://103.195.103.31:2086/streams/75_.m3u8
 
 
 
