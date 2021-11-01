@@ -244,6 +244,9 @@ http://103.195.103.31:2086/streams/143_.m3u8
 #EXTINF:-15 tvg-id="Ae.br" tvg-name="AMC" group-title="filmes PG ",AMC
 http://103.195.103.31:2086/streams/3_.m3u8
 
+#EXTINF:-1,05 | AMC SD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/139465
+
 #EXTINF:-15 tvg-id="Ae.br" tvg-name="AMC" group-title="filmes PG ",MEGAPIX
 http://103.195.103.31:2086/streams/171_.m3u8
 
@@ -254,6 +257,10 @@ http://103.195.103.31:2086/streams/242_.m3u8
 
 #EXTINF:-15 tvg-id="Ae.br" tvg-name="AMC" group-title="filmes PG ",SPACE
 http://103.195.103.31:2086/streams/200_.m3u8
+
+#EXTINF:-1,19 | SPACE | SD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/139875
+
 
 
 
@@ -269,6 +276,7 @@ http://103.195.103.31:2086/streams/111_.m3u8
 
 #EXTINF:-15 tvg-id="Ae.br" tvg-name="AMC" group-title="filmes PG ",MTV
 http://103.195.103.31:2086/streams/141_.m3u8
+
 
 #EXTINF:-15 tvg-id="Ae.br" tvg-name="AMC" group-title="filmes PG ",sexy extreme
 http://103.195.103.31:2086/streams/216_.m3u8
@@ -288,5 +296,10 @@ http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/169734
 
 #EXTINF:-1,24/7 |  Los caballeros del Zodiaco HD
 http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/168083
+
+
+#EXTINF:-1,24/7 |  jaspion
+http://172.106.16.218:80/live/xstjwfps/1z9eUb7uQ2/34895.ts?token=TRNcUBZZEwoRBVUAAVAHCgVSUwABVwdfBgUFDFRYDwACU1BTVgMEVAsUSRpAQEVcBVptXl0RWQoGCAgMSkNCQVNDa1gBEwsSAQZUCwsNABtIFUZeVFZBAwMGAgxRVg8LBgcYExVYVRIJFFEPCwIPAUYbEFJBRwZLXFFdZgIEQVtVVBYLC0RdXB8UClZsUFJUBVlWFQMRUhseElhKFkMNXENdWB1HU1hEQVcRXREOWUwIWx4VWlwWV0ZCSBtcQ3VgFB0WVB1FVF5AXwpWEQ4VTRcVHhVQQDxLV0NFSwMAWldEEw4TVRMdEl5XHWdQW1lXAVRGXlZdEBsIEgAbSkNaXVhYQF4XbkFZVxRfGgcDDw9WDxBK
+
 
 
