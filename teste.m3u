@@ -241,11 +241,15 @@ http://103.195.103.31:2086/streams/122_.m3u8
 http://103.195.103.31:2086/streams/143_.m3u8
 
 
-#EXTINF:-15 tvg-id="Ae.br" tvg-name="AMC" group-title="filmes PG ",AMC
+#EXTINF:-15 tvg-id="Ae.br" tvg-name="AMC" group-title="filmes PG ",AMC 1
 http://103.195.103.31:2086/streams/3_.m3u8
 
-#EXTINF:-1,05 | AMC SD
+#EXTINF:-1,05 | AMC SD 2
 http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/139465
+
+#EXTINF:-1,05 | AMC 3
+http://s.pdsrv.io:80/xstjwfps/1z9eUb7uQ2/20891
+
 
 #EXTINF:-15 tvg-id="Ae.br" tvg-name="AMC" group-title="filmes PG ",MEGAPIX
 http://103.195.103.31:2086/streams/171_.m3u8
@@ -298,8 +302,22 @@ http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/169734
 http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/168083
 
 
-#EXTINF:-1,24/7 |  jaspion
-http://172.106.16.218:80/live/xstjwfps/1z9eUb7uQ2/34895.ts?token=TRNcUBZZEwoRBVUAAVAHCgVSUwABVwdfBgUFDFRYDwACU1BTVgMEVAsUSRpAQEVcBVptXl0RWQoGCAgMSkNCQVNDa1gBEwsSAQZUCwsNABtIFUZeVFZBAwMGAgxRVg8LBgcYExVYVRIJFFEPCwIPAUYbEFJBRwZLXFFdZgIEQVtVVBYLC0RdXB8UClZsUFJUBVlWFQMRUhseElhKFkMNXENdWB1HU1hEQVcRXREOWUwIWx4VWlwWV0ZCSBtcQ3VgFB0WVB1FVF5AXwpWEQ4VTRcVHhVQQDxLV0NFSwMAWldEEw4TVRMdEl5XHWdQW1lXAVRGXlZdEBsIEgAbSkNaXVhYQF4XbkFZVxRfGgcDDw9WDxBK
+
+#EXTINF:-1,24H JASPION
+http://s.pdsrv.io:80/xstjwfps/1z9eUb7uQ2/34895
+
+
+#EXTINF:-1,24H OS CAVALEIROS DO ZODIACO
+http://s.pdsrv.io:80/xstjwfps/1z9eUb7uQ2/34909
+
+
+
+
+
+
+
+
+
 
 
 
