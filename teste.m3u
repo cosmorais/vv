@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-2 tvg-id="Ae.br" tvg-name="Globo RJ" group-title="Abertos ",Globo RJ
-http://103.195.103.31:2086/streams/2_.m3u8
+#EXTINF:-30 tvg-id="Ae.br" tvg-name="Aberto" group-title="Abertos ",Record RJ
+https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_360_av-p.m3u8
+
+
+#EXTINF:-1,Globo RJ HD
+http://canaishd.servidor.tv:8080/natan100/100natan/1504
 
 #EXTINF:-3 tvg-id="Ae.br" tvg-name="Filmes" group-title="filmes ",LONDRINA TV
 https://video01.kshost.com.br:4443/clodoaldo3320/clodoaldo3320/chunklist_w516730791.m3u8
-
-
-#EXTINF:-3 tvg-id="Ae.br" tvg-name="Filmes" group-title="filmes ",A PLUS TV
-https://stmv1.srvif.com/aplus/aplus/chunklist_w966743469.m3u8
 
 
 #EXTINF:-3 tvg-id="Ae.br" tvg-name="Filmes" group-title="filmes ",cynemax 
@@ -53,12 +53,6 @@ http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/chunklist.m3u8
 https://stmv1.voxtvhd.com.br/tvtokio/tvtokio/chunklist_w1721263960.m3u8
 
 
-
-
-#EXTINF:-15 tvg-id="Ae.br" tvg-name="jogo" group-title="jogo ",jo ARAGUAIA TV 
-https://video01.kshost.com.br:4443/mayra5349/mayra5349/chunklist_w776842345.m3u8
-
-
 #EXTINF:-16 tvg-id="Ae.br" tvg-name="Filmes" group-title="filmes ",ISTV 
 https://cdn.jmvstream.com/w/LVW-9883/LVW9883_lFcfKysrHF/chunklist.m3u8
 
@@ -74,102 +68,41 @@ https://srv5.zcast.com.br/tvmanchete/tvmanchete/chunklist_w255968089.m3u8
 http://pe1b.distv.net:8080/live/ib-3992aurino/ShSLKB8CQ0/114.m3u8
 
 
-
-#EXTINF:-30 tvg-id="Ae.br" tvg-name="zodiaco" group-title="filmes PG ",TV CAMARA
-https://stream3.camara.gov.br/tv1/manifest.m3u8
-
-
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="PREMIRERE" group-title="PREMIRERE ",Premier club 1
-http://103.195.103.31:2086/streams/61_.m3u8
+#EXTINF:-1,Premiere Clubes HD
+http://canaishd.servidor.tv:8080/natan100/100natan/1447
 
 
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="PREMIRERE" group-title="PREMIRERE ",Premier
-http://103.195.103.31:2086/streams/63_.m3u8
+#EXTINF:-1,Premiere 2 HD
+http://canaishd.servidor.tv:8080/natan100/100natan/1511
 
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="PREMIRERE" group-title="PREMIRERE ",PREMIER CLUB | HD PAGO
-http://dreamsmart.me:2082/live/Achrafplt_914689/Bktb63Qy/28863.ts
+#EXTINF:-1,Premiere 3 HD
+http://canaishd.servidor.tv:8080/natan100/100natan/1510
 
+#EXTINF:-1,Premiere 4 HD
+http://canaishd.servidor.tv:8080/natan100/100natan/1509
 
+#EXTINF:-1,Premiere 5 HD
+http://canaishd.servidor.tv:8080/natan100/100natan/1508
 
-#EXTM3U
-#EXTINF:-2 tvg-id="Ae.br" tvg-name="PREMIRERE" group-title="PREMIRERE ",PREMIRERE 2 
-http://dreamsmart.me:2082/live/Achrafplt_914689/Bktb63Qy/28863.ts
+#EXTINF:-1,Premiere 6 HD
+http://canaishd.servidor.tv:8080/natan100/100natan/1507
 
-#EXTM3U
-#EXTINF:-3 tvg-id="Ae.br" tvg-name="PREMIRERE" group-title="PREMIRERE ",PREMIRERE 3 
-http://dreamsmart.me:2082/live/Achrafplt_914689/Bktb63Qy/28864.ts
+#EXTINF:-1,Premiere 7 HD
+http://canaishd.servidor.tv:8080/natan100/100natan/1506
 
-
-#EXTM3U
-#EXTINF:-4 tvg-id="Ae.br" tvg-name="PREMIRERE" group-title="PREMIRERE ",PREMIRERE 4 
-http://dreamsmart.me:2082/live/Achrafplt_914689/Bktb63Qy/28865.ts
-
-
-#EXTM3U
-#EXTINF:-5 tvg-id="Ae.br" tvg-name="PREMIRERE" group-title="PREMIRERE ",PREMIRERE 5 
-http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/169728
-https://newedge.eu-central-1.edge.mycdn.live/live/esportes5/esportes5_2000/index.m3u8
-https://newedge.eu-central-1.edge.mycdn.live/live/esportes5/playlist.m3u8
-
-#EXTM3U
-#EXTINF:-6 tvg-id="Ae.br" tvg-name="PREMIRERE" group-title="PREMIRERE ",PREMIRERE 6 
-http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/169729
-https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_2000/index.m3u8
-https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/playlist.m3u8
-
-#EXTINF:-1,41 | PREMIER CLUB 7 | HD
-http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/169730
-
-#EXTINF:-1,42 | PREMIER CLUB 8 | HD
-http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/169731
+#EXTINF:-1,Premiere 8 HD
+http://canaishd.servidor.tv:8080/natan100/100natan/63207
 
 
 
-#EXTM3U
-#EXTINF:-30 tvg-id="Ae.br" tvg-name="Aberto" group-title="Abertos ",Record RJ
-https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_360_av-p.m3u8
 
-#EXTINF:-30 tvg-id="Ae.br" tvg-name="Aberto" group-title="Abertos ",ShoWdoESPORTE
-http://103.195.103.31:2086/streams/260_.m3u8
-
-#EXTINF:-30 tvg-id="Ae.br" tvg-name="Aberto" group-title="Abertos ",JOGO
-http://103.195.103.31:2086/streams/330_.m3u8
+#EXTINF:-1,Multishow HD
+http://canaishd.servidor.tv:8080/natan100/100natan/1452
 
 
 
-#EXTINF:-30 tvg-id="Ae.br" tvg-name="SPORTV" group-title="SPORTV ",espn
-https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs5/vintequatrohrs5_2000/index.m3u8
-
-
-#EXTM3U
-#EXTINF:-30 tvg-id="Ae.br" tvg-name="SPORTV" group-title="SPORTV",SPORTV
-http://dreamsmart.me:2082/Achrafplt_914689/Bktb63Qy/28873
-
-
-#EXTINF:-30 tvg-id="Ae.br" tvg-name="SPORTV" group-title="SPORTV",SPORTV 2
-http://dreamsmart.me:2082/Achrafplt_914689/Bktb63Qy/28871
-
-
-#EXTINF:-30 tvg-id="Ae.br" tvg-name="SPORTV" group-title="SPORTV",SPORTV 3
-http://103.195.103.31:2086/streams/74_.m3u8
-
-
-
-#EXTINF:-30 tvg-id="Ae.br" tvg-name="SPORTV" group-title="SPORTV",FOXSPORT
-http://103.195.103.31:2086/streams/55_.m3u8
-
-
-#EXTINF:-30 tvg-id="Ae.br" tvg-name="SPORTV" group-title="SPORTV",ESPN ESPORTE
-http://103.195.103.31:2086/streams/54_.m3u8
-
-
-#EXTINF:-15 tvg-id="Ae.br" tvg-name="afazenda13" group-title="filmes PG ",AFAZENDA 13 camera principal
-https://tna5.bozztv.com/realy/index.m3u8
-
-
-
-#EXTINF:-15 tvg-id="Ae.br" tvg-name="afazenda13" group-title="filmes PG ",CINE PIX TV 
-https://stmv1.srvif.com/cinepix/cinepix/chunklist_w1910848225.m3u8
+#EXTINF:-1,ESPN Brasil HD
+http://canaishd.servidor.tv:8080/natan100/100natan/1475
 
 
 
@@ -181,55 +114,52 @@ https://stmv5.samcast.com.br/abnerbom1543/abnerbom1543/chunklist_w1418908987.m3u
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1739392633.m3u8
 
 
-
-
-#EXTINF:-15 tvg-id="Ae.br" tvg-name="afazenda13" group-title="filmes PG ",Record News
-https://r1---sn-j5mp5nvoapox-bpbe.googlevideo.com/videoplayback?expire=1633374476&ei=q_xaYe3UOonK1sQPgZyYuAg&ip=189.126.81.225&id=eFiNz4ZlWA0.2&itag=243&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=yt_live_broadcast&requiressl=yes&mh=UT&mm=44%2C29&mn=sn-j5mp5nvoapox-bpbe%2Csn-pmcg-bg0l&ms=lva%2Crdu&mv=m&mvi=1&pl=24&initcwndbps=1133750&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fwebm&ns=wepjqBi8GxARi41embjIe2kG&gir=yes&mt=1633352436&fvip=7&keepalive=yes&fexp=24001373%2C24007246&c=WEB_EMBEDDED_PLAYER&n=uso2vl0lsYgn8g&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRAIgcdYm5ILxKNNooCQhTqE-Zi_MiRigddLtxd_vy9cnIDQCIFq9VBO_bmM4MHaaNINzsydkOyiK8QVPlhBdNUrTs6m3&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIgJh2COKvNEKwfbwD4lEV6seltGICvuI4FEmVWY8v0DJECIQCfXdvdXEgebANaJ7Q-pc0oSGF2INgU1KkbMb_IudVekg%3D%3D&alr=yes&cpn=aFuqO7f0wVyKKSuM&cver=1.20210928.1.1&sq=3401414&rn=5&rbuf=1902
-
-
-
-
 #EXTINF:-15 tvg-id="Ae.br" tvg-name="afazenda13" group-title="filmes PG ",BAND 2
 http://168.205.87.198:8555/live/123456/123456/19.m3u8
 
 #EXTINF:-15 tvg-id="Ae.br" tvg-name="afazenda13" group-title="filmes PG ",BAND 3
 http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
 
-#EXTINF:-15 tvg-id="Ae.br" tvg-name="afazenda13" group-title="filmes PG ",BAND rj
-http://vipeiptv.com:25461/fernandocgr2021/2021cgrfernando/981590
+#EXTINF:-1,Band SP HD+
+http://canaishd.servidor.tv:8080/natan100/100natan/484
+
+#EXTINF:-1,Band RJ HD
+http://canaishd.servidor.tv:8080/natan100/100natan/63319
 
 
+#EXTINF:-30 tvg-id="Ae.br" tvg-name="zodiaco" group-title="filmes PG ",TV CAMARA
+https://stream3.camara.gov.br/tv1/manifest.m3u8
 
 
 #EXTINF:-15 tvg-id="Ae.br" tvg-name="afazenda13" group-title="filmes PG ",SENADO
 http://168.205.87.198:8555/live/123456/123456/139.m3u8
 
-#EXTINF:-15 tvg-id="Ae.br" tvg-name="afazenda13" group-title="filmes PG ",SENADO E 2
-http://103.195.103.31:2086/streams/44_.m3u8
+#EXTINF:-1,TV Senado HD 2
+http://canaishd.servidor.tv:8080/natan100/100natan/22515
 
 
-#EXTINF:-15 tvg-id="Ae.br" tvg-name="afazenda13" group-title="filmes PG ",ACTION
-http://103.195.103.31:2086/streams/214_.m3u8
+#EXTINF:-1,Telecine Action HD
+http://canaishd.servidor.tv:8080/natan100/100natan/1438
 
-#EXTINF:-15 tvg-id="Ae.br" tvg-name="afazenda13" group-title="filmes PG ",cult
-http://103.195.103.31:2086/streams/204_.m3u8
-http://103.195.103.31:2086/streams/203_.m3u8
+#EXTINF:-1,Telecine Cult HD
+http://canaishd.servidor.tv:8080/natan100/100natan/1437
 
 
-#EXTINF:-15 tvg-id="Ae.br" tvg-name="TCPipoca" group-title="filmes PG ",PREMIUM
-http://103.195.103.31:2086/streams/209_.m3u8
+#EXTINF:-1,Telecine Premium HD
+http://canaishd.servidor.tv:8080/natan100/100natan/1434
 
-#EXTINF:-15 tvg-id="Ae.br" tvg-name="TCPipoca" group-title="filmes PG ",TCPipoca
-http://103.195.103.31:2086/streams/208_.m3u8
-
-#EXTINF:-15 tvg-id="Ae.br" tvg-name="TCPipoca" group-title="filmes PG ",TCPipoca 22
-http://50.7.69.210/C44E74526807/C44E74526807/4708?token=SxYMUEZcEANAUgIIAlAFVlMEAFMAVAJXUg4HBwRVBAYJA1RTBFIGXFEUTxMXQEYGAls8XgBACAADCQ8fFkEVVUJrDVUXDhAPUgFWBEYYFhcKWwYVXlMEBwEPBAMCDVUcEkQNVRcOEA1XDlYTSBZRGxdTEVkFDm1QUU9eUFEWXF5FWAgdF1tcZgZTDlAKUBZZQQZBG0YLQUQWA1lGWFhKElJdEENUQFcbWBRSBlIFFk9BVQxCChZATRYDFWZnFkoSVUwQVFtHW1YMFFkTEEcWT0FfEGgWB0FARlxWXlFGRAoSBEYdF1lTQT1VDF8KUVcXClkNREZYEAYWFRVeW1oPRF9GO0FcUBADQARXAVADFh4=
+#EXTINF:-1,Telecine Pipoca HD
+http://canaishd.servidor.tv:8080/natan100/100natan/1435
 
 
 
 
 #EXTINF:-15 tvg-id="Ae.br" tvg-name="AMC" group-title="filmes PG ",Globo News HD+
 http://solutionplay.xyz:8080/techruthes/10987658/6108
+
+#EXTINF:-1,Globo News HD  2
+http://canaishd.servidor.tv:8080/natan100/100natan/1468
+
 
 #EXTINF:-15 tvg-id="Ae.br" tvg-name="AMC" group-title="filmes PG ",warnerchannel hd
 http://solutionplay.xyz:8080/techruthes/10987658/6486
@@ -238,34 +168,36 @@ http://solutionplay.xyz:8080/techruthes/10987658/6486
 http://solutionplay.xyz:8080/techruthes/10987658/6427
 
 
+#EXTINF:-1,A&E HD+  2
+http://canaishd.servidor.tv:8080/natan100/100natan/375
+
+
+
 #EXTINF:-15 tvg-id="Ae.br" tvg-name="AMC" group-title="filmes PG ",AMC 1
 http://canaishd.servidor.tv:8080/natan100/100natan/1498
 
 
 
-#EXTINF:-1,05 | AMC 3
-http://s.pdsrv.io:80/xstjwfps/1z9eUb7uQ2/20891
-
-
 #EXTINF:-15 tvg-id="Ae.br" tvg-name="AMC" group-title="filmes PG ",MEGAPIX
 http://solutionplay.xyz:8080/techruthes/10987658/6457
 
-#EXTINF:-1 tvg-ID="" tvg-name="|BR| MEGAPIX HD" tvg-logo="" group-title="AM | BRAZIL",|BR| MEGAPIX 2
-http://dreamsmart.me:2082/Achrafplt_914689/Bktb63Qy/28894
+
+#EXTINF:-1,Megapix HD  2
+http://canaishd.servidor.tv:8080/natan100/100natan/1454
 
 
+#EXTINF:-1,Cinemax HD
+http://canaishd.servidor.tv:8080/natan100/100natan/1490
 
-#EXTINF:-15 tvg-id="Ae.br" tvg-name="AMC" group-title="filmes PG ",CINEMAX
-http://103.195.103.31:2086/streams/242_.m3u8
-
-
-
-#EXTINF:-15 tvg-id="Ae.br" tvg-name="AMC" group-title="filmes PG ",SPACE
-http://dreamsmart.me:2082/live/Achrafplt_914689/Bktb63Qy/28884
 
 
 #EXTINF:-15 tvg-id="Ae.br" tvg-name="AMC" group-title="filmes PG ",SPACE 2
 http://solutionplay.xyz:8080/techruthes/10987658/6466
+
+
+#EXTINF:-1,Space HD  3
+http://canaishd.servidor.tv:8080/natan100/100natan/1445 
+
 
 
 
@@ -279,22 +211,9 @@ http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/139875
 http://103.195.103.31:2086/streams/49_.m3u8
 
 
-#EXTINF:-15 tvg-id="Ae.br" tvg-name="AMC" group-title="filmes PG ",MMMMM
-http://103.195.103.31:2086/streams/111_.m3u8
 
-
-
-
-#EXTINF:-15 tvg-id="Ae.br" tvg-name="AMC" group-title="filmes PG ",MTV
-http://dreamsmart.me:2082/live/Achrafplt_914689/Bktb63Qy/28831
-
-
-#EXTINF:-15 tvg-id="Ae.br" tvg-name="AMC" group-title="filmes PG ",sexy extreme
-http://103.195.103.31:2086/streams/216_.m3u8
-
-#EXTINF:-15 tvg-id="Ae.br" tvg-name="AMC" group-title="filmes PG ",sexy hot
-http://103.195.103.31:2086/streams/217_.m3u8
-
+#EXTINF:-1,MTV HD
+http://canaishd.servidor.tv:8080/natan100/100natan/1453
 
 
 
@@ -305,16 +224,16 @@ http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/169733
 #EXTINF:-1,45 | SPORTV 3 | HD
 http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/169734
 
-#EXTINF:-1,24/7 |  Los caballeros del Zodiaco HD
-http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/168083
 
 
+#EXTINF:-1,SporTV HD
+http://canaishd.servidor.tv:8080/natan100/100natan/1444
 
-#EXTINF:-1,24H JASPION
-http://propdsrv.com/xstjwfps/1z9eUb7uQ2/34895
+#EXTINF:-1,SporTV 2 HD
+http://canaishd.servidor.tv:8080/natan100/100natan/1443
 
-#EXTINF:-1,24H OS CAVALEIROS DO ZODIACO
-http://propdsrv.com/xstjwfps/1z9eUb7uQ2/34909
+#EXTINF:-1,SporTV 3 HD
+http://canaishd.servidor.tv:8080/natan100/100natan/1442
 
 
 
@@ -324,7 +243,28 @@ https://srv1.painelvideo.com/tvmix/tvmix/chunklist_w2012370176.m3u8
 
 
 
-
+#EXTINF:-1,A Fazenda 13 HD 1
+http://canaishd.servidor.tv:8080/natan100/100natan/77581
+#EXTINF:-1,A Fazenda 13 HD 2
+http://canaishd.servidor.tv:8080/natan100/100natan/77580
+#EXTINF:-1,A Fazenda 13 HD 3
+http://canaishd.servidor.tv:8080/natan100/100natan/77579
+#EXTINF:-1,A Fazenda 13 Cam 01
+http://canaishd.servidor.tv:8080/natan100/100natan/77578
+#EXTINF:-1,A Fazenda 13 Cam 02
+http://canaishd.servidor.tv:8080/natan100/100natan/77577
+#EXTINF:-1,A Fazenda 13 Cam 03
+http://canaishd.servidor.tv:8080/natan100/100natan/77576
+#EXTINF:-1,A Fazenda 13 Cam 04
+http://canaishd.servidor.tv:8080/natan100/100natan/77575
+#EXTINF:-1,A Fazenda 13 Cam 05
+http://canaishd.servidor.tv:8080/natan100/100natan/77574
+#EXTINF:-1,A Fazenda 13 Cam 06
+http://canaishd.servidor.tv:8080/natan100/100natan/77573
+#EXTINF:-1,A Fazenda 13 Cam 07
+http://canaishd.servidor.tv:8080/natan100/100natan/77572
+#EXTINF:-1,A Fazenda 13 Cam 08
+http://canaishd.servidor.tv:8080/natan100/100natan/77571
 
 
 
