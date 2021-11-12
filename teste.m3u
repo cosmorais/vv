@@ -75,27 +75,35 @@ https://srv5.zcast.com.br/tvmanchete/tvmanchete/chunklist_w255968089.m3u8
 http://pe1b.distv.net:8080/live/ib-3992aurino/ShSLKB8CQ0/114.m3u8
 
 
+#EXTINF:-1,Premiere 1
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/75478
+
 #EXTINF:-1,Premiere Clubes HD
-http://canaishd.servidor.tv:8080/natan100/100natan/1447
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/80057
 
 
 #EXTINF:-1,Premiere 2 HD
-http://canaishd.servidor.tv:8080/natan100/100natan/1511
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/75479
+
 
 #EXTINF:-1,Premiere 3 HD
-http://canaishd.servidor.tv:8080/natan100/100natan/1510
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/75480
+
+
 
 #EXTINF:-1,Premiere 4 HD
-http://canaishd.servidor.tv:8080/natan100/100natan/1509
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/75481
+
 
 #EXTINF:-1,Premiere 5 HD
-http://canaishd.servidor.tv:8080/natan100/100natan/1508
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/75482
+
 
 #EXTINF:-1,Premiere 6 HD
-http://canaishd.servidor.tv:8080/natan100/100natan/1507
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/75483
 
 #EXTINF:-1,Premiere 7 HD
-http://canaishd.servidor.tv:8080/natan100/100natan/1506
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/75484
 
 #EXTINF:-1,Premiere 8 HD
 http://canaishd.servidor.tv:8080/natan100/100natan/63207
@@ -103,13 +111,38 @@ http://canaishd.servidor.tv:8080/natan100/100natan/63207
 
 
 
+#EXTINF:-1,Multishow SD
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81107
+
 #EXTINF:-1,Multishow HD
-http://canaishd.servidor.tv:8080/natan100/100natan/1452
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81108
 
 
 
 #EXTINF:-1,ESPN Brasil HD
-http://canaishd.servidor.tv:8080/natan100/100natan/1475
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/79995
+
+#EXTINF:-1,ESPN BRASIL HD BR
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/79996
+
+#EXTINF:-1,ESPN BRASIL SD BR
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81063
+
+
+#EXTINF:-1,ESPN 2 HD BR
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/79997
+
+
+
+#EXTINF:-1,ESPN Extra SD BR
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81060
+
+
+#EXTINF:-1,ESPN Extra HD BR
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81061
+
+
+
 
 
 
@@ -145,110 +178,133 @@ http://168.205.87.198:8555/live/123456/123456/139.m3u8
 http://canaishd.servidor.tv:8080/natan100/100natan/22515
 
 
+#EXTINF:-1,Telecine Action SD
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81190
+
 #EXTINF:-1,Telecine Action HD
-http://canaishd.servidor.tv:8080/natan100/100natan/1438
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81191
+
+#EXTINF:-1,Telecine Action SD
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81190
 
 #EXTINF:-1,Telecine Cult HD
-http://canaishd.servidor.tv:8080/natan100/100natan/1437
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/80081
 
 
-#EXTINF:-1,Telecine Premium HD
-http://canaishd.servidor.tv:8080/natan100/100natan/1434
+#EXTINF:-1,Telecine Cult SD
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81188
+
+#EXTINF:-1,TELECINE TOUCH HD BR
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/80085
+
+
+#EXTINF:-1,TELECINE PREMIUM HD BR
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/80084
+
+#EXTINF:-1,TELECINE PREMIUM SD
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81184
 
 #EXTINF:-1,Telecine Pipoca HD
-http://canaishd.servidor.tv:8080/natan100/100natan/1435
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/80083
 
 
 
 
 #EXTINF:-15 tvg-id="Ae.br" tvg-name="AMC" group-title="filmes PG ",Globo News HD+
-http://solutionplay.xyz:8080/techruthes/10987658/6108
-
-#EXTINF:-1,Globo News HD  2
-http://canaishd.servidor.tv:8080/natan100/100natan/1468
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81082
 
 
-#EXTINF:-15 tvg-id="Ae.br" tvg-name="AMC" group-title="filmes PG ",warnerchannel hd
-http://solutionplay.xyz:8080/techruthes/10987658/6486
+#EXTINF:-15 tvg-id="Ae.br" tvg-name="AMC" group-title="filmes PG ",Globo News SD
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/14335
+
+
+
+
+#EXTINF:-15 tvg-id="Ae.br" tvg-name="AMC" group-title="filmes PG ",Warner Channel HD BR
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81196
+
+#EXTINF:-15 tvg-id="Ae.br" tvg-name="AMC" group-title="filmes PG ",Warner Channel SD BR
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81195
+
+
+
+
+
 
 #EXTINF:-15 tvg-id="Ae.br" tvg-name="AMC" group-title="filmes PG ",a&e hd
-http://solutionplay.xyz:8080/techruthes/10987658/6427
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/79966
 
 
-#EXTINF:-1,A&E HD+  2
-http://canaishd.servidor.tv:8080/natan100/100natan/375
 
 
 
 #EXTINF:-15 tvg-id="Ae.br" tvg-name="AMC" group-title="filmes PG ",AMC 1
-http://canaishd.servidor.tv:8080/natan100/100natan/1498
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/79967
 
 
 
-#EXTINF:-15 tvg-id="Ae.br" tvg-name="AMC" group-title="filmes PG ",MEGAPIX
-http://solutionplay.xyz:8080/techruthes/10987658/6457
+#EXTINF:-15 tvg-id="Ae.br" tvg-name="AMC" group-title="filmes PG ",AMC SD
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81013
 
 
-#EXTINF:-1,Megapix HD  2
-http://canaishd.servidor.tv:8080/natan100/100natan/1454
+
+#EXTINF:-15 tvg-id="Ae.br" tvg-name="AMC" group-title="filmes PG ",Megapix SD BR
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81111
+
+#EXTINF:-15 tvg-id="Ae.br" tvg-name="AMC" group-title="filmes PG ",MEGAPIX HD BR
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/80046
+
+
 
 
 #EXTINF:-1,Cinemax HD
-http://canaishd.servidor.tv:8080/natan100/100natan/1490
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/79978
 
+
+#EXTINF:-1,Cinemax SD
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81037
+
+
+
+#EXTINF:-15 tvg-id="Ae.br" tvg-name="AMC" group-title="filmes PG ",SPACE 1
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/80072
 
 
 #EXTINF:-15 tvg-id="Ae.br" tvg-name="AMC" group-title="filmes PG ",SPACE 2
-http://solutionplay.xyz:8080/techruthes/10987658/6466
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81155
 
 
-#EXTINF:-1,Space HD  3
-http://canaishd.servidor.tv:8080/natan100/100natan/1445 
+#EXTINF:-1,Combate SD
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81039
 
-
-
-
-#EXTINF:-1,19 | SPACE | SD
-http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/139875
-
-
-
-
-#EXTINF:-1,Combate HD
-http://canaishd.servidor.tv:8080/natan100/100natan/1489
-
-
-#EXTINF:-1,MTV Live HD
-http://canaishd.servidor.tv:8080/natan100/100natan/33259
+#EXTINF:-1,Combate HD BR
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81040
 
 
 #EXTINF:-1,MTV HD
-http://canaishd.servidor.tv:8080/natan100/100natan/1453
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/80047
+
+
+#EXTINF:-1,SporTV 1
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/3382
+
+#EXTINF:-1,SporTV 1 HD
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/80073
 
 
 
-
-#EXTINF:-1,Pluto TV MTV HD 2
-http://canaishd.servidor.tv:8080/natan100/100natan/63947
-
-
-#EXTINF:-1,43 | SPORTV | HD
-http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/169732
-#EXTINF:-1,44 | SPORTV 2 | HD 
-http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/169733
-#EXTINF:-1,45 | SPORTV 3 | HD
-http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/169734
-
-
-
-#EXTINF:-1,SporTV HD
-http://canaishd.servidor.tv:8080/natan100/100natan/1444
+#EXTINF:-1,SporTV 2
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/33813
 
 #EXTINF:-1,SporTV 2 HD
-http://canaishd.servidor.tv:8080/natan100/100natan/1443
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81161
+
+
+#EXTINF:-1,SporTV 3 
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/3380
 
 #EXTINF:-1,SporTV 3 HD
-http://canaishd.servidor.tv:8080/natan100/100natan/1442
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/80075
 
 
 
@@ -259,27 +315,24 @@ https://srv1.painelvideo.com/tvmix/tvmix/chunklist_w2012370176.m3u8
 
 
 #EXTINF:-1,A Fazenda 13 HD 1
-http://canaishd.servidor.tv:8080/natan100/100natan/77581
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/102417
 #EXTINF:-1,A Fazenda 13 HD 2
-http://canaishd.servidor.tv:8080/natan100/100natan/77580
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/102416
 #EXTINF:-1,A Fazenda 13 HD 3
-http://canaishd.servidor.tv:8080/natan100/100natan/77579
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/102415
 #EXTINF:-1,A Fazenda 13 Cam 01
-http://canaishd.servidor.tv:8080/natan100/100natan/77578
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/102414
 #EXTINF:-1,A Fazenda 13 Cam 02
-http://canaishd.servidor.tv:8080/natan100/100natan/77577
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/102413
 #EXTINF:-1,A Fazenda 13 Cam 03
-http://canaishd.servidor.tv:8080/natan100/100natan/77576
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/102412
 #EXTINF:-1,A Fazenda 13 Cam 04
-http://canaishd.servidor.tv:8080/natan100/100natan/77575
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/102411
 #EXTINF:-1,A Fazenda 13 Cam 05
-http://canaishd.servidor.tv:8080/natan100/100natan/77574
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/102410
 #EXTINF:-1,A Fazenda 13 Cam 06
-http://canaishd.servidor.tv:8080/natan100/100natan/77573
-#EXTINF:-1,A Fazenda 13 Cam 07
-http://canaishd.servidor.tv:8080/natan100/100natan/77572
-#EXTINF:-1,A Fazenda 13 Cam 08
-http://canaishd.servidor.tv:8080/natan100/100natan/77571
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/102409
+
 
 
 
