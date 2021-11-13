@@ -10,7 +10,12 @@ http://cloud-nany.cc:80/tv2021/2021tv/96851
 https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_360_av-p.m3u8
 https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8?IMDSFULL
 
-
+#EXTINF:-1 tvg-id="LiveJaspion" tvg-name="[24h] JASPION" tvg-logo="https://i.imgur.com/AHmeYJr.jpg" group-title="LIVE: SERIES 24h",[24h] JASPION
+http://cloud-nany.cc:80/tv2021/2021tv/54111
+#EXTINF:-1 tvg-id="" tvg-name="[24h] JIRAIYA: O INCRIVEL NINJA" tvg-logo="https://i.imgur.com/AHmeYJr.jpg" group-title="LIVE: SERIES 24h",[24h] JIRAIYA: O INCRIVEL NINJA
+http://cloud-nany.cc:80/tv2021/2021tv/54130
+#EXTINF:-1 tvg-id="LiveNinjaJiraya" tvg-name="[24h] JIRAYA" tvg-logo="https://i.imgur.com/AHmeYJr.jpg" group-title="LIVE: SERIES 24h",[24h] JIRAYA
+http://cloud-nany.cc:80/tv2021/2021tv/54112
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iQ5Umwj.jpg" group-title="BRAZIL",Canal 29
@@ -82,6 +87,9 @@ https://srv5.zcast.com.br/tvmanchete/tvmanchete/chunklist_w255968089.m3u8
 http://pe1b.distv.net:8080/live/ib-3992aurino/ShSLKB8CQ0/114.m3u8
 
 
+#EXTINF:-1,43 | PREMIERE CLUBES TES
+http://cdn1.mg99.xyz:80/live/789789/789789/876264
+
 #EXTINF:-1,43 | PREMIERE CLUBES SD
 http://cloud-nany.cc:80/tv2021/2021tv/1158
 
@@ -118,18 +126,6 @@ http://cloud-nany.cc:80/tv2021/2021tv/7957
 #EXTINF:-1,Premiere 7 SD
 http://cloud-nany.cc:80/tv2021/2021tv/7958
 
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1,Premiere 7 HD
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/75484
 
 #EXTINF:-1,Premiere 8 HD
 http://canaishd.servidor.tv:8080/natan100/100natan/63207
@@ -274,11 +270,8 @@ http://pe1b.distv.net:80/ib-3992aurino/ShSLKB8CQ0/223
 
 
 
-#EXTINF:-15 tvg-id="Ae.br" tvg-name="AMC" group-title="filmes PG ",Megapix SD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81111
-
-#EXTINF:-15 tvg-id="Ae.br" tvg-name="AMC" group-title="filmes PG ",MEGAPIX HD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/80046
+#EXTINF:-15,Megapix SD BR
+http://cloud-nany.cc:80/tv2021/2021tv/7991
 
 
 
