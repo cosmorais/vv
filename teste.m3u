@@ -87,26 +87,6 @@ https://srv5.zcast.com.br/tvmanchete/tvmanchete/chunklist_w255968089.m3u8
 http://pe1b.distv.net:8080/live/ib-3992aurino/ShSLKB8CQ0/114.m3u8
 
 
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC SD" tvg-logo="https://i.imgur.com/5ID1n5P.png" group-title="CANAIS | FILMES & SÉRIES ",AMC SD
-http://main.cteam.me:80/789789/789789/857104.ts
-
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC [H265]" tvg-logo="https://i.imgur.com/5ID1n5P.png" group-title="CANAIS | FILMES & SÉRIES ",AMC [H265]
-http://main.cteam.me:80/789789/789789/856914
-
-
-
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA SD" tvg-logo="https://i.imgur.com/uLUN3d9.png" group-title="CANAIS | TELECINE",TELECINE PIPOCA SD
-http://main.cteam.me:80/789789/789789/857214
-
-#EXTINF:-1,43 | PIPOCA 2
-http://cdn1.mg99.xyz:80/live/789789/789789/857214.ts
-
-#EXTINF:-1,43 | PREMIERE TES 1
-http://cdn1.mg99.xyz:80/789789/789789/876264.ts
-
-
-
-
 #EXTINF:-1,43 | PREMIERE CLUBES SD
 http://cloud-nany.cc:80/tv2021/2021tv/1158
 
@@ -142,47 +122,6 @@ http://cloud-nany.cc:80/tv2021/2021tv/7957
 
 #EXTINF:-1,Premiere 7 SD
 http://cloud-nany.cc:80/tv2021/2021tv/7958
-
-
-#EXTINF:-1,Premiere 8 HD
-http://canaishd.servidor.tv:8080/natan100/100natan/63207
-
-
-
-
-#EXTINF:-1,Multishow SD
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81107
-
-#EXTINF:-1,Multishow HD
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81108
-
-
-
-#EXTINF:-1,ESPN Brasil HD
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/79995
-
-#EXTINF:-1,ESPN BRASIL HD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/79996
-
-#EXTINF:-1,ESPN BRASIL SD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81063
-
-
-#EXTINF:-1,ESPN 2 HD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/79997
-
-
-
-#EXTINF:-1,ESPN Extra SD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81060
-
-
-#EXTINF:-1,ESPN Extra HD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81061
-
-
-
-
 
 
 #EXTINF:-15 tvg-id="Ae.br" tvg-name="afazenda13" group-title="filmes PG ",REDE CLONE TV
@@ -374,44 +313,44 @@ http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/102409
 
 
 
-#EXTINF:-1,43 | MEGAPIXMM
+#EXTINF:-1,43 | MEGAPIX
 http://mains.services:2086/nick5404/9928627/92671?checkedby:iptvcat.com
 
 
-#EXTINF:-1,43 | CINEMAXMM
+#EXTINF:-1,43 | CINEMAX
 http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/46511?checkedby:iptvcat.com
 
-#EXTINF:-1,43 | AMC BRMM
+#EXTINF:-1,43 | AMC BR
 http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/46501?checkedby:iptvcat.com
 
 
-#EXTINF:-1,43 | PIPOCA BRMM
+#EXTINF:-1,43 | PIPOCA BR
 http://mains.services:2086/nick5404/9928627/92639?checkedby:iptvcat.com
 
-#EXTINF:-1,43 | Sportv BRMM
+#EXTINF:-1,43 | Sportv BR
 http://mains.services:2086/nick5404/9928627/92645?checkedby:iptvcat.com
 
-#EXTINF:-1,43 | Sportv 2MM
+#EXTINF:-1,43 | Sportv 2
 http://mains.services:2086/nick5404/9928627/92647?checkedby:iptvcat.com
 
-#EXTINF:-1,43 | PREMIERE CLUBES HD BRMMM
+#EXTINF:-1,43 | PREMIERE CLUBES HD BR
 http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/80057?checkedby:iptvcat.com
 
 
-#EXTINF:-1,43 | PREMIERE CLUBES HD BR 2MMM
+#EXTINF:-1,43 | PREMIERE CLUBES HD BR 2
 http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/46579?checkedby:iptvcat.com
 
 
-#EXTINF:-1,43 | Premiere 2MMM
+#EXTINF:-1,43 | Premiere 2
 http://mains.services:2086/nick5404/9928627/92660?checkedby:iptvcat.com
 
-#EXTINF:-1,43 | Premiere 3MMM
+#EXTINF:-1,43 | Premiere 3
 http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/46574?checkedby:iptvcat.com
 
 
 
-#EXTINF:-1,43 | Premiere 4MM
-http://mains.services:2086/nick5404/9928627/92658
+#EXTINF:-1,43 | Premiere 4
+http://mains.services:2086/nick5404/9928627/92658?checkedby:iptvcat.com
 
 
 
