@@ -87,6 +87,12 @@ https://srv5.zcast.com.br/tvmanchete/tvmanchete/chunklist_w255968089.m3u8
 http://pe1b.distv.net:8080/live/ib-3992aurino/ShSLKB8CQ0/114.m3u8
 
 
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC SD" tvg-logo="https://i.imgur.com/5ID1n5P.png" group-title="CANAIS | FILMES & SÉRIES ",AMC SD
+http://main.cteam.me:80/789789/789789/857104
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC [H265]" tvg-logo="https://i.imgur.com/5ID1n5P.png" group-title="CANAIS | FILMES & SÉRIES ",AMC [H265]
+http://main.cteam.me:80/789789/789789/856914
+
+
 
 #EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA SD" tvg-logo="https://i.imgur.com/uLUN3d9.png" group-title="CANAIS | TELECINE",TELECINE PIPOCA SD
 http://main.cteam.me:80/789789/789789/857214
@@ -98,8 +104,7 @@ http://cdn1.mg99.xyz:80/live/789789/789789/857214.ts
 http://cdn1.mg99.xyz:80/789789/789789/876264.ts
 
 
-#EXTINF:-1,43 | PREMIERE TES
-http://cdn1.mg99.xyz:80/live/789789/789789/876264.ts
+
 
 #EXTINF:-1,43 | PREMIERE CLUBES SD
 http://cloud-nany.cc:80/tv2021/2021tv/1158
