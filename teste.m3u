@@ -82,21 +82,22 @@ https://srv5.zcast.com.br/tvmanchete/tvmanchete/chunklist_w255968089.m3u8
 http://pe1b.distv.net:8080/live/ib-3992aurino/ShSLKB8CQ0/114.m3u8
 
 
-#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES SD" tvg-logo="https://i.imgur.com/9ro74RY.png" group-title="PREMIERE FUTEBOL",PREMIERE CLUBES SD
+#EXTINF:-1,43 | PREMIERE CLUBES SD
 http://cloud-nany.cc:80/tv2021/2021tv/1158
 
 
-#EXTINF:-1,Premiere 2 HD
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/75479
+#EXTINF:-1,Premiere 2 SD
+http://cloud-nany.cc:80/tv2021/2021tv/7968
 
 
-#EXTINF:-1,Premiere 3 HD
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/75480
-
-
+#EXTINF:-1,Premiere 3 SD
+http://cloud-nany.cc:80/tv2021/2021tv/7966
 
 #EXTINF:-1,Premiere 4 HD
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/75481
+http://cloud-nany.cc:80/tv2021/2021tv/7963
+
+#EXTINF:-1,Premiere 4 SD
+http://cloud-nany.cc:80/tv2021/2021tv/992
 
 
 #EXTINF:-1,Premiere 5 HD
@@ -104,7 +105,28 @@ http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/75482
 
 
 #EXTINF:-1,Premiere 6 HD
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/75483
+http://cloud-nany.cc:80/tv2021/2021tv/7959
+
+#EXTINF:-1,Premiere 6 SD
+http://cloud-nany.cc:80/tv2021/2021tv/7960
+
+
+
+#EXTINF:-1,Premiere 7 HD
+http://cloud-nany.cc:80/tv2021/2021tv/7957
+
+#EXTINF:-1,Premiere 7 SD
+http://cloud-nany.cc:80/tv2021/2021tv/7958
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1,Premiere 7 HD
 http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/75484
