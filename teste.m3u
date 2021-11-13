@@ -88,7 +88,8 @@ http://pe1b.distv.net:8080/live/ib-3992aurino/ShSLKB8CQ0/114.m3u8
 
 
 #EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC SD" tvg-logo="https://i.imgur.com/5ID1n5P.png" group-title="CANAIS | FILMES & SÉRIES ",AMC SD
-http://main.cteam.me:80/789789/789789/857104
+http://main.cteam.me:80/789789/789789/857104.ts
+
 #EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC [H265]" tvg-logo="https://i.imgur.com/5ID1n5P.png" group-title="CANAIS | FILMES & SÉRIES ",AMC [H265]
 http://main.cteam.me:80/789789/789789/856914
 
