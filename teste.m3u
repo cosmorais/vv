@@ -263,7 +263,7 @@ http://cloud-nany.cc:80/tv2021/2021tv/8118
 
 
 
-#EXTINF:-1,Combate HD BRMMMMMMMMMMMMMMMMMM
+#EXTINF:-1,Combate HD BR
 http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81040
 
 
@@ -294,9 +294,6 @@ http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/80075
 
 
 
-#EXTINF:-1,Canais de Filmes 24H
-https://srv1.painelvideo.com/tvmix/tvmix/chunklist_w2012370176.m3u8
-
 
 
 
@@ -320,47 +317,6 @@ http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/102410
 http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/102409
 
 
-
-
-#EXTINF:-1,43 | MEGAPIX
-http://mains.services:2086/nick5404/9928627/92671?checkedby:iptvcat.com
-
-
-#EXTINF:-1,43 | CINEMAX
-http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/46511?checkedby:iptvcat.com
-
-#EXTINF:-1,43 | AMC BR
-http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/46501?checkedby:iptvcat.com
-
-
-#EXTINF:-1,43 | PIPOCA BR
-http://mains.services:2086/nick5404/9928627/92639?checkedby:iptvcat.com
-
-#EXTINF:-1,43 | Sportv BR
-http://mains.services:2086/nick5404/9928627/92645?checkedby:iptvcat.com
-
-#EXTINF:-1,43 | Sportv 2
-http://mains.services:2086/nick5404/9928627/92647?checkedby:iptvcat.com
-
-#EXTINF:-1,43 | PREMIERE CLUBES HD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/80057?checkedby:iptvcat.com
-
-
-#EXTINF:-1,43 | PREMIERE CLUBES HD BR 2
-http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/46579?checkedby:iptvcat.com
-
-
-#EXTINF:-1,43 | Premiere 2
-http://mains.services:2086/nick5404/9928627/92660?checkedby:iptvcat.com
-
-#EXTINF:-1,43 | Premiere 3
-http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/46574?checkedby:iptvcat.com
-
-
-
-#EXTINF:-1,43 | Premiere 4
-http://mains.services:2086/nick5404/9928627/92658?checkedby:iptvcat.com
-
-
-
+#EXTINF:-1,Canais de Filmes 24H
+https://srv1.painelvideo.com/tvmix/tvmix/chunklist_w2012370176.m3u8
 
