@@ -4,7 +4,6 @@ http://cloud-nany.cc:80/tv2021/2021tv/96851
 
 
 
-
 #EXTM3U
 #EXTINF:-30 tvg-id="Ae.br" tvg-name="Aberto" group-title="Abertos ",Record RJ
 https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_360_av-p.m3u8
@@ -21,9 +20,6 @@ http://cloud-nany.cc:80/tv2021/2021tv/54112
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iQ5Umwj.jpg" group-title="BRAZIL",Canal 29
 https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/playlist.m3u8
 
-
-#EXTINF:-1,Globo RJ HD
-http://canaishd.servidor.tv:8080/natan100/100natan/1504
 
 #EXTINF:-3 tvg-id="Ae.br" tvg-name="Filmes" group-title="filmes ",LONDRINA TV
 https://video01.kshost.com.br:4443/clodoaldo3320/clodoaldo3320/chunklist_w516730791.m3u8
@@ -85,6 +81,19 @@ https://srv5.zcast.com.br/tvmanchete/tvmanchete/chunklist_w255968089.m3u8
 
 #EXTINF:-3 tvg-id="Ae.br" tvg-name="Filmes" group-title="filmes ",animal planet
 http://pe1b.distv.net:8080/live/ib-3992aurino/ShSLKB8CQ0/114.m3u8
+
+
+EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV SD1" tvg-logo="https://i.imgur.com/HqQ8H8o.png" group-title="ESPORTES GLOBOSAT",SPORTV SD1
+http://cloud-nany.cc:80/tv2021/2021tv/7062
+
+
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 SD" tvg-logo="https://i.imgur.com/aBPiw05.png" group-title="ESPORTES GLOBOSAT",SPORTV 2 SD
+http://cloud-nany.cc:80/tv2021/2021tv/7934
+
+
+
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 SD" tvg-logo="https://i.imgur.com/Csz4ulq.png" group-title="ESPORTES GLOBOSAT",SPORTV 3 SD
+http://cloud-nany.cc:80/tv2021/2021tv/7932
 
 
 #EXTINF:-1,43 | PREMIERE CLUBES SD
