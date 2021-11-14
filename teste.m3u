@@ -1,11 +1,3 @@
-#EXTINF:-30 tvg-id="Ae.br" tvg-name="Aberto" group-title="Abertos ",TESTE
-http://altv.tvhome.info:8080/C44E74526807/C44E74526807/4628
-
-
-#EXTINF:-30 tvg-id="Ae.br" tvg-name="Aberto" group-title="Abertos ",PREMIERE TESTE
-http://23.237.87.18:80/C44E74526807/C44E74526807/4628?token=SxYMUEZcEANAV1AIUAFWWwIAVQNXUlZWAVgOUVcHUgQEAQcCUABXWAMUTxMXQEYGAls8XgBACAACCw8fFkEVVUJrDVUXDhAPUgFWBEYYFhcKWwYVXlMEBwIBDgABA18cEkQNVRcOEA1UBVYTSBZRGxdTEVkFDm1QUU9eUFEWXF5FWAgdF1tcZgZTDlAKUBZZQQZBG0YLQUQWA1lGWFhKElJdEENUQFcbWBRSBFADFk9BVQxCChZATRYDFWZnFkoSVUwQVFtHW1YMFFkTEEcWT0FfEGgWB0FARlxWXlFGRAoSBEYdF1lTQT1VDF8KUVcXClkNREZYEAYWFRVeW1oPRF9GO0FcUBADQAVRBlIWSQ==
-
-
 
 #EXTM3U
 #EXTINF:-30 tvg-id="Ae.br" tvg-name="Aberto" group-title="Abertos ",BAND
@@ -14,16 +6,9 @@ http://cloud-nany.cc:80/tv2021/2021tv/96851
 
 
 #EXTM3U
-#EXTINF:-30 tvg-id="Ae.br" tvg-name="Aberto" group-title="Abertos ",Record RJ
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="FREE" group-title="FREE ",Record RJ
 https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_360_av-p.m3u8
 https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8?IMDSFULL
-
-#EXTINF:-1 tvg-id="LiveJaspion" tvg-name="[24h] JASPION" tvg-logo="https://i.imgur.com/AHmeYJr.jpg" group-title="LIVE: SERIES 24h",[24h] JASPION
-http://cloud-nany.cc:80/tv2021/2021tv/54111
-#EXTINF:-1 tvg-id="" tvg-name="[24h] JIRAIYA: O INCRIVEL NINJA" tvg-logo="https://i.imgur.com/AHmeYJr.jpg" group-title="LIVE: SERIES 24h",[24h] JIRAIYA: O INCRIVEL NINJA
-http://cloud-nany.cc:80/tv2021/2021tv/54130
-#EXTINF:-1 tvg-id="LiveNinjaJiraya" tvg-name="[24h] JIRAYA" tvg-logo="https://i.imgur.com/AHmeYJr.jpg" group-title="LIVE: SERIES 24h",[24h] JIRAYA
-http://cloud-nany.cc:80/tv2021/2021tv/54112
 
 
 #EXTINF:-5 tvg-id="Ae.br" tvg-name="FREE" group-title="FREE ",Canal 29
@@ -91,6 +76,15 @@ https://srv5.zcast.com.br/tvmanchete/tvmanchete/chunklist_w255968089.m3u8
 #EXTINF:-5 tvg-id="Ae.br" tvg-name="FREE" group-title="FREE ",animal planet
 http://pe1b.distv.net:8080/live/ib-3992aurino/ShSLKB8CQ0/114.m3u8
 
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="FREE" group-title="FREE ",TV CAMARA
+http://168.205.87.198:8555/live/123456/123456/136.m3u8
+
+
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="FREE" group-title="FREE ",SENADO
+http://168.205.87.198:8555/live/123456/123456/139.m3u8
+
+
+
 
 
 
@@ -136,12 +130,8 @@ http://cloud-nany.cc:80/tv2021/2021tv/7957
 http://cloud-nany.cc:80/tv2021/2021tv/7958
 
 
-#EXTINF:-15 tvg-id="Ae.br" tvg-name="afazenda13" group-title="filmes PG ",REDE CLONE TV
-https://stmv5.samcast.com.br/abnerbom1543/abnerbom1543/chunklist_w1418908987.m3u8
 
 
-#EXTINF:-15 tvg-id="Ae.br" tvg-name="afazenda13" group-title="filmes PG ",TV NOVA PLAY
-https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1739392633.m3u8
 
 
 #EXTINF:-15 tvg-id="Ae.br" tvg-name="afazenda13" group-title="filmes PG ",BAND 2
@@ -157,16 +147,27 @@ http://canaishd.servidor.tv:8080/natan100/100natan/484
 http://canaishd.servidor.tv:8080/natan100/100natan/63319
 
 
-#EXTINF:-5 tvg-id="Ae.br" tvg-name="FREE" group-title="FREE ",TV CAMARA
-http://168.205.87.198:8555/live/123456/123456/136.m3u8
-
-
-#EXTINF:-5 tvg-id="Ae.br" tvg-name="FREE" group-title="FREE ",SENADO
-http://168.205.87.198:8555/live/123456/123456/139.m3u8
 
 
 
 
+#EXTINF:-30 tvg-id="Ae.br" tvg-name="Aberto" group-title="Abertos ",TESTE
+http://altv.tvhome.info:8080/C44E74526807/C44E74526807/4628
+
+
+#EXTINF:-30 tvg-id="Ae.br" tvg-name="Aberto" group-title="Abertos ",PREMIERE TESTE
+http://23.237.87.18:80/C44E74526807/C44E74526807/4628?token=SxYMUEZcEANAV1AIUAFWWwIAVQNXUlZWAVgOUVcHUgQEAQcCUABXWAMUTxMXQEYGAls8XgBACAACCw8fFkEVVUJrDVUXDhAPUgFWBEYYFhcKWwYVXlMEBwIBDgABA18cEkQNVRcOEA1UBVYTSBZRGxdTEVkFDm1QUU9eUFEWXF5FWAgdF1tcZgZTDlAKUBZZQQZBG0YLQUQWA1lGWFhKElJdEENUQFcbWBRSBFADFk9BVQxCChZATRYDFWZnFkoSVUwQVFtHW1YMFFkTEEcWT0FfEGgWB0FARlxWXlFGRAoSBEYdF1lTQT1VDF8KUVcXClkNREZYEAYWFRVeW1oPRF9GO0FcUBADQAVRBlIWSQ==
+
+
+
+
+
+#EXTINF:-1 tvg-id="LiveJaspion" tvg-name="[24h] JASPION" tvg-logo="https://i.imgur.com/AHmeYJr.jpg" group-title="LIVE: SERIES 24h",[24h] JASPION
+http://cloud-nany.cc:80/tv2021/2021tv/54111
+#EXTINF:-1 tvg-id="" tvg-name="[24h] JIRAIYA: O INCRIVEL NINJA" tvg-logo="https://i.imgur.com/AHmeYJr.jpg" group-title="LIVE: SERIES 24h",[24h] JIRAIYA: O INCRIVEL NINJA
+http://cloud-nany.cc:80/tv2021/2021tv/54130
+#EXTINF:-1 tvg-id="LiveNinjaJiraya" tvg-name="[24h] JIRAYA" tvg-logo="https://i.imgur.com/AHmeYJr.jpg" group-title="LIVE: SERIES 24h",[24h] JIRAYA
+http://cloud-nany.cc:80/tv2021/2021tv/54112
 
 
 
