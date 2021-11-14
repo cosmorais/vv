@@ -161,8 +161,6 @@ http://23.237.87.18:80/C44E74526807/C44E74526807/4628?token=SxYMUEZcEANAV1AIUAFW
 
 
 
-
-
 #EXTINF:-1 tvg-id="LiveJaspion" tvg-name="[24h] JASPION" tvg-logo="https://i.imgur.com/AHmeYJr.jpg" group-title="LIVE: SERIES 24h",[24h] JASPION
 http://cloud-nany.cc:80/tv2021/2021tv/54111
 #EXTINF:-1 tvg-id="" tvg-name="[24h] JIRAIYA: O INCRIVEL NINJA" tvg-logo="https://i.imgur.com/AHmeYJr.jpg" group-title="LIVE: SERIES 24h",[24h] JIRAIYA: O INCRIVEL NINJA
@@ -170,6 +168,89 @@ http://cloud-nany.cc:80/tv2021/2021tv/54130
 #EXTINF:-1 tvg-id="LiveNinjaJiraya" tvg-name="[24h] JIRAYA" tvg-logo="https://i.imgur.com/AHmeYJr.jpg" group-title="LIVE: SERIES 24h",[24h] JIRAYA
 http://cloud-nany.cc:80/tv2021/2021tv/54112
 
+
+#EXTINF:-15 tvg-id="Ae.br" tvg-name="afazenda13" group-title="3 DIAS ",AMC 17/11/2021
+http://list.starbr.nz:80/bbhbj68063/jjkca72981/15406
+
+#EXTINF:-15 tvg-id="Ae.br" tvg-name="afazenda13" group-title="3 DIAS ",PIPOCA 17/11/2021
+http://list.starbr.nz:80/bbhbj68063/jjkca72981/930
+
+#EXTINF:-15 tvg-id="Ae.br" tvg-name="afazenda13" group-title="3 DIAS ",SPACE 17/11/2021
+http://list.starbr.nz:80/bbhbj68063/jjkca72981/1327
+
+#EXTINF:-15 tvg-id="Ae.br" tvg-name="afazenda13" group-title="3 DIAS ",CINEMAX 17/11/2021
+http://list.starbr.nz:80/bbhbj68063/jjkca72981/5080
+
+
+" group-title="3 DIAS ",WARNER CHANNEL 17/11/2021
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 1 FULL HD" tvg-logo="http://img.starbr.nz/1626554814_14879df7b4ee3ce79643c6f04ecbbc35ff65508f.png" group-title="3 DIAS ",CINE SKY 1 FULL HD
+http://list.starbr.nz:80/bbhbj68063/jjkca72981/77250
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 10 HD" tvg-logo="http://img.starbr.nz/1626554814_14879df7b4ee3ce79643c6f04ecbbc35ff65508f.png" group-title="3 DIAS ",CINE SKY 10 HD
+http://list.starbr.nz:80/bbhbj68063/jjkca72981/77259
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 11 HD" tvg-logo="http://img.starbr.nz/1626554814_14879df7b4ee3ce79643c6f04ecbbc35ff65508f.png" group-title="3 DIAS ",CINE SKY 11 HD
+http://list.starbr.nz:80/bbhbj68063/jjkca72981/77260
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 12 HD" tvg-logo="http://img.starbr.nz/1626554814_14879df7b4ee3ce79643c6f04ecbbc35ff65508f.png" group-title="3 DIAS ",CINE SKY 12 HD
+http://list.starbr.nz:80/bbhbj68063/jjkca72981/77261
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 13 HD" tvg-logo="http://img.starbr.nz/1626554814_14879df7b4ee3ce79643c6f04ecbbc35ff65508f.png" group-title="3 DIAS ",CINE SKY 13 HD
+http://list.starbr.nz:80/bbhbj68063/jjkca72981/77267
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 14 HD" tvg-logo="http://img.starbr.nz/1626554814_14879df7b4ee3ce79643c6f04ecbbc35ff65508f.png" group-title="3 DIAS ",CINE SKY 14 HD
+http://list.starbr.nz:80/bbhbj68063/jjkca72981/77266
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 15 HD" tvg-logo="http://img.starbr.nz/1626554814_14879df7b4ee3ce79643c6f04ecbbc35ff65508f.png" group-title="3 DIAS ",CINE SKY 15 HD
+http://list.starbr.nz:80/bbhbj68063/jjkca72981/77265
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 2 FULL HD" tvg-logo="http://img.starbr.nz/1626554814_14879df7b4ee3ce79643c6f04ecbbc35ff65508f.png" group-title="3 DIAS ",CINE SKY 2 FULL HD
+http://list.starbr.nz:80/bbhbj68063/jjkca72981/77251
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 3 FULL HD" tvg-logo="http://img.starbr.nz/1626554814_14879df7b4ee3ce79643c6f04ecbbc35ff65508f.png" group-title="3 DIAS ",CINE SKY 3 FULL HD
+http://list.starbr.nz:80/bbhbj68063/jjkca72981/77252
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 4 FULL HD" tvg-logo="http://img.starbr.nz/1626554814_14879df7b4ee3ce79643c6f04ecbbc35ff65508f.png" group-title="3 DIAS ",CINE SKY 4 FULL HD
+http://list.starbr.nz:80/bbhbj68063/jjkca72981/77254
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 5 FULL HD" tvg-logo="http://img.starbr.nz/1626554814_14879df7b4ee3ce79643c6f04ecbbc35ff65508f.png" group-title="3 DIAS ",CINE SKY 5 FULL HD
+http://list.starbr.nz:80/bbhbj68063/jjkca72981/77255
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 6 HD" tvg-logo="http://img.starbr.nz/1626554814_14879df7b4ee3ce79643c6f04ecbbc35ff65508f.png" group-title="3 DIAS ",CINE SKY 6 HD
+http://list.starbr.nz:80/bbhbj68063/jjkca72981/77256
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 7 HD" tvg-logo="http://img.starbr.nz/1626554814_14879df7b4ee3ce79643c6f04ecbbc35ff65508f.png" group-title="3 DIAS ",CINE SKY 7 HD
+http://list.starbr.nz:80/bbhbj68063/jjkca72981/77257
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 8 HD" tvg-logo="http://img.starbr.nz/1626554814_14879df7b4ee3ce79643c6f04ecbbc35ff65508f.png" group-title="3 DIAS ",CINE SKY 8 HD
+http://list.starbr.nz:80/bbhbj68063/jjkca72981/77258
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 9 HD" tvg-logo="http://img.starbr.nz/1626554814_14879df7b4ee3ce79643c6f04ecbbc35ff65508f.png" group-title="3 DIAS ",CINE SKY 9 HD
+http://list.starbr.nz:80/bbhbj68063/jjkca72981/77270
+
+
+#EXTINF:-15 tvg-id="Ae.br" tvg-name="afazenda13" group-title="3 DIAS ",A FAZENDA 1 17/11/2021
+http://list.starbr.nz:80/bbhbj68063/jjkca72981/79954
+
+
+#EXTINF:-15 tvg-id="Ae.br" tvg-name="afazenda13" group-title="3 DIAS ",A FAZENDA 17/11/2021
+http://list.starbr.nz:80/bbhbj68063/jjkca72981/79975
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 13" tvg-logo="http://painel.starbr.nz/files/imagem_canal/1568745913_9352972f96d1f0a226698e1a75dfa0159916089e.jpg" group-title="3 DIAS ",A FAZENDA 13
+http://list.starbr.nz:80/bbhbj68063/jjkca72981/79954
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 13 CAM 01" tvg-logo="http://painel.starbr.nz/files/imagem_canal/1568745913_9352972f96d1f0a226698e1a75dfa0159916089e.jpg" group-title="3 DIAS ",A FAZENDA 13 CAM 01
+http://list.starbr.nz:80/bbhbj68063/jjkca72981/79975
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 13 CAM 02" tvg-logo="http://painel.starbr.nz/files/imagem_canal/1568745913_9352972f96d1f0a226698e1a75dfa0159916089e.jpg" group-title="3 DIAS ",A FAZENDA 13 CAM 02
+http://list.starbr.nz:80/bbhbj68063/jjkca72981/79976
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 13 CAM 03" tvg-logo="http://painel.starbr.nz/files/imagem_canal/1568745913_9352972f96d1f0a226698e1a75dfa0159916089e.jpg" group-title="3 DIAS ",A FAZENDA 13 CAM 03
+http://list.starbr.nz:80/bbhbj68063/jjkca72981/79977
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 13 CAM 04" tvg-logo="http://painel.starbr.nz/files/imagem_canal/1568745913_9352972f96d1f0a226698e1a75dfa0159916089e.jpg" group-title="3 DIAS ",A FAZENDA 13 CAM 04
+http://list.starbr.nz:80/bbhbj68063/jjkca72981/79978
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 13 CAM 05" tvg-logo="http://painel.starbr.nz/files/imagem_canal/1568745913_9352972f96d1f0a226698e1a75dfa0159916089e.jpg" group-title="3 DIAS ",A FAZENDA 13 CAM 05
+http://list.starbr.nz:80/bbhbj68063/jjkca72981/79979
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 13 CAM 06" tvg-logo="http://painel.starbr.nz/files/imagem_canal/1568745913_9352972f96d1f0a226698e1a75dfa0159916089e.jpg" group-title="3 DIAS ",A FAZENDA 13 CAM 06
+http://list.starbr.nz:80/bbhbj68063/jjkca72981/79980
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 13 CAM 07" tvg-logo="http://painel.starbr.nz/files/imagem_canal/1568745913_9352972f96d1f0a226698e1a75dfa0159916089e.jpg" group-title="3 DIAS ",A FAZENDA 13 CAM 07
+http://list.starbr.nz:80/bbhbj68063/jjkca72981/79981
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 13 CAM 08" tvg-logo="http://painel.starbr.nz/files/imagem_canal/1568745913_9352972f96d1f0a226698e1a75dfa0159916089e.jpg" group-title="3 DIAS ",A FAZENDA 13 CAM 08
+http://list.starbr.nz:80/bbhbj68063/jjkca72981/79982
 
 
 
