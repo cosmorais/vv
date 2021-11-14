@@ -26,78 +26,72 @@ http://cloud-nany.cc:80/tv2021/2021tv/54130
 http://cloud-nany.cc:80/tv2021/2021tv/54112
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iQ5Umwj.jpg" group-title="BRAZIL",Canal 29
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="FREE" group-title="FREE ",Canal 29
 https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/playlist.m3u8
 
 
-#EXTINF:-3 tvg-id="Ae.br" tvg-name="Filmes" group-title="filmes ",LONDRINA TV
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="FREE" group-title="FREE ",LONDRINA TV
 https://video01.kshost.com.br:4443/clodoaldo3320/clodoaldo3320/chunklist_w516730791.m3u8
 
 
-#EXTINF:-3 tvg-id="Ae.br" tvg-name="Filmes" group-title="filmes ",cynemax 
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="FREE" group-title="FREE ",cynemax 
 https://srv1.painelvideo.com/tvmix/tvmix/chunklist_w324831437.m3u8
 
-#EXTINF:-4 tvg-id="Ae.br" tvg-name="Filmes" group-title="filmes ",NovaPlay
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="FREE" group-title="FREE ",NovaPlay
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1371270398.m3u8
 
-#EXTINF:-5 tvg-id="Ae.br" tvg-name="Filmes2" group-title="filmes2 ",filme 1
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="FREE" group-title="FREE ",filme 1
 https://video01.kshost.com.br:4443/clodoaldo3320/clodoaldo3320/chunklist_w1237587292.m3u8
 
 
-#EXTINF:-6 tvg-id="Ae.br" tvg-name="Filmes" group-title="filmes ",comedia
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="FREE" group-title="FREE ",comedia
 https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/chunklist_w1098951485.m3u8
 
-#EXTINF:-7 tvg-id="Ae.br" tvg-name="Filmes" group-title="filmes ",comedia
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="FREE" group-title="FREE ",comedia
 https://stmv1.srvif.com/radiowebguarei/radiowebguarei/chunklist_w332558381.m3u8
 
 
-#EXTINF:-8 tvg-id="Ae.br" tvg-name="Filmes" group-title="filmes ",TV WEB GUAREI
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="FREE" group-title="FREE ",TV WEB GUAREI
 https://srv5.zcast.com.br/tvmanchete/tvmanchete/chunklist_w1654383826.m3u8
 
 
-#EXTINF:-9 tvg-id="Ae.br" tvg-name="Filmes" group-title="filmes ",WEB TV CIDADE 
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="FREE" group-title="FREE ",WEB TV CIDADE 
 https://stmv1.srvstm.com/webradiocidade/webradiocidade/chunklist_w1281420894.m3u8
 
 
 #EXTM3U
-#EXTINF:-10 tvg-id="Ae.br" tvg-name="Filmes" group-title="filmes ",LONDRINA TV
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="FREE" group-title="FREE ",LONDRINA TV
 https://video01.kshost.com.br:4443/clodoaldo3320/clodoaldo3320/chunklist_w1237587292.m3u8
 
-#EXTINF:-11 tvg-id="Ae.br" tvg-name="Filmes" group-title="filmes ",CHANNEL 1 
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="FREE" group-title="FREE ",CHANNEL 1 
 https://stmv1.srvif.com/channel1/channel1/chunklist_w1167270397.m3u8
 
-#EXTINF:-12 tvg-id="Ae.br" tvg-name="Filmes" group-title="filmes ",ALL SPORTS TV 
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="FREE" group-title="FREE ",ALL SPORTS TV 
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w1623708771.m3u8
 
 
-#EXTINF:-13 tvg-id="Ae.br" tvg-name="Filmes" group-title="filmes ",WEB TV ÁGUA BOA
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="FREE" group-title="FREE ",WEB TV ÁGUA BOA
 http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/chunklist.m3u8
 
-#EXTINF:-14 tvg-id="Ae.br" tvg-name="Filmes" group-title="filmes ",TV TOKYO
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="FREE" group-title="FREE ",TV TOKYO
 https://stmv1.voxtvhd.com.br/tvtokio/tvtokio/chunklist_w1721263960.m3u8
 
 
-#EXTINF:-16 tvg-id="Ae.br" tvg-name="Filmes" group-title="filmes ",ISTV 
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="FREE" group-title="FREE ",ISTV 
 https://cdn.jmvstream.com/w/LVW-9883/LVW9883_lFcfKysrHF/chunklist.m3u8
 
-#EXTINF:-17 tvg-id="Ae.br" tvg-name="Filmes" group-title="filmes ",TV JORNAL DO NORDESTE
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="FREE" group-title="FREE ",TV JORNAL DO NORDESTE
 https://5cf4a2c2512a2.streamlock.net/jornaldonorteste/jornaldonorteste/chunklist_w1589740295.m3u8
 
 
-#EXTINF:-3 tvg-id="Ae.br" tvg-name="Filmes" group-title="filmes ",TV MANCHETE WEB 
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="FREE" group-title="FREE ",TV MANCHETE WEB 
 https://srv5.zcast.com.br/tvmanchete/tvmanchete/chunklist_w255968089.m3u8
 
 
-#EXTINF:-3 tvg-id="Ae.br" tvg-name="Filmes" group-title="filmes ",animal planet
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="FREE" group-title="FREE ",animal planet
 http://pe1b.distv.net:8080/live/ib-3992aurino/ShSLKB8CQ0/114.m3u8
 
 
-EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV SD1" tvg-logo="https://i.imgur.com/HqQ8H8o.png" group-title="ESPORTES GLOBOSAT",SPORTV SD1
-http://cloud-nany.cc:80/tv2021/2021tv/7062
-
-
-#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 SD" tvg-logo="https://i.imgur.com/aBPiw05.png" group-title="ESPORTES GLOBOSAT",SPORTV 2 SD
-http://cloud-nany.cc:80/tv2021/2021tv/7934
 
 
 
@@ -163,169 +157,22 @@ http://canaishd.servidor.tv:8080/natan100/100natan/484
 http://canaishd.servidor.tv:8080/natan100/100natan/63319
 
 
-#EXTINF:-30 tvg-id="Ae.br" tvg-name="zodiaco" group-title="filmes PG ",TV CAMARA
-https://stream3.camara.gov.br/tv1/manifest.m3u8
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="FREE" group-title="FREE ",TV CAMARA
+http://168.205.87.198:8555/live/123456/123456/136.m3u8
 
 
-#EXTINF:-15 tvg-id="Ae.br" tvg-name="afazenda13" group-title="filmes PG ",SENADO
+#EXTINF:-5 tvg-id="Ae.br" tvg-name="FREE" group-title="FREE ",SENADO
 http://168.205.87.198:8555/live/123456/123456/139.m3u8
 
-#EXTINF:-1,TV Senado HD 2
-http://canaishd.servidor.tv:8080/natan100/100natan/22515
 
 
-#EXTINF:-1,Telecine Action SD
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81190
 
-#EXTINF:-1,Telecine Action HD
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81191
 
-#EXTINF:-1,Telecine Action SD
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81190
 
-#EXTINF:-1,Telecine Cult HD
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/80081
 
 
-#EXTINF:-1,Telecine Cult SD
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81188
 
-#EXTINF:-1,TELECINE TOUCH HD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/80085
 
 
-#EXTINF:-1,TELECINE PREMIUM HD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/80084
 
-#EXTINF:-1,TELECINE PREMIUM SD
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81184
-
-#EXTINF:-1,Telecine Pipoca HD
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/80083
-
-
-
-
-#EXTINF:-15 tvg-id="Ae.br" tvg-name="AMC" group-title="filmes PG ",Globo News HD+
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81082
-
-
-#EXTINF:-15 tvg-id="Ae.br" tvg-name="AMC" group-title="filmes PG ",Globo News SD
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/14335
-
-
-
-
-#EXTINF:-15 tvg-id="Ae.br" tvg-name="AMC" group-title="filmes PG ",Warner Channel HD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81196
-
-#EXTINF:-15 tvg-id="Ae.br" tvg-name="AMC" group-title="filmes PG ",Warner Channel SD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81195
-
-
-
-
-
-
-#EXTINF:-15 tvg-id="Ae.br" tvg-name="AMC" group-title="filmes PG ",a&e hd
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/79966
-
-
-
-
-
-#EXTINF:-15 tvg-id="Ae.br" tvg-name="AMC" group-title="filmes PG ",AMC 1
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/79967
-
-
-
-#EXTINF:-15 tvg-id="Ae.br" tvg-name="AMC" group-title="filmes PG ",AMC SD 2
-http://pe1b.distv.net:80/ib-3992aurino/ShSLKB8CQ0/223
-
-
-
-#EXTINF:-15,Megapix SD BR
-http://cloud-nany.cc:80/tv2021/2021tv/7991
-
-
-
-
-#EXTINF:-1,Cinemax HD
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/79978
-
-
-#EXTINF:-1,Cinemax SD
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81037
-
-
-
-#EXTINF:-15 tvg-id="Ae.br" tvg-name="AMC" group-title="filmes PG ",SPACE 1
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/80072
-
-
-#EXTINF:-15 tvg-id="Ae.br" tvg-name="AMC" group-title="filmes PG ",SPACE 2
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81155
-
-
-#EXTINF:-1,COMBATE HD
-http://cloud-nany.cc:80/tv2021/2021tv/8118
-
-
-
-#EXTINF:-1,Combate HD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81040
-
-
-#EXTINF:-1,MTV HD
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/80047
-
-
-#EXTINF:-1,SporTV 1
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/3382
-
-#EXTINF:-1,SporTV 1 HD
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/80073
-
-
-
-#EXTINF:-1,SporTV 2
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/33813
-
-#EXTINF:-1,SporTV 2 HD
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81161
-
-
-#EXTINF:-1,SporTV 3 
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/3380
-
-#EXTINF:-1,SporTV 3 HD
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/80075
-
-
-
-
-
-
-#EXTINF:-1,A Fazenda 13 HD 1
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/102417
-#EXTINF:-1,A Fazenda 13 HD 2
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/102416
-#EXTINF:-1,A Fazenda 13 HD 3
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/102415
-#EXTINF:-1,A Fazenda 13 Cam 01
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/102414
-#EXTINF:-1,A Fazenda 13 Cam 02
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/102413
-#EXTINF:-1,A Fazenda 13 Cam 03
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/102412
-#EXTINF:-1,A Fazenda 13 Cam 04
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/102411
-#EXTINF:-1,A Fazenda 13 Cam 05
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/102410
-#EXTINF:-1,A Fazenda 13 Cam 06
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/102409
-
-
-#EXTINF:-1,Canais de Filmes 24H
-https://srv1.painelvideo.com/tvmix/tvmix/chunklist_w2012370176.m3u8
 
