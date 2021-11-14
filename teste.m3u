@@ -182,15 +182,15 @@ http://list.starbr.nz:80/bbhbj68063/jjkca72981/1327
 http://list.starbr.nz:80/bbhbj68063/jjkca72981/5080
 
 
-" group-title="3 DIAS ",WARNER CHANNEL 17/11/2021
+EXTINF:-15 tvg-id="Ae.br" tvg-name="afazenda13" group-title="3 DIAS ",WARNER CHANNEL 17/11/2021
+http://list.starbr.nz:80/bbhbj68063/jjkca72981/2478
 
 
 
 
 
 
-
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 1 FULL HD" tvg-logo="http://img.starbr.nz/1626554814_14879df7b4ee3ce79643c6f04ecbbc35ff65508f.png" group-title="3 DIAS ",CINE SKY 1 FULL HD
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 1 HD" tvg-logo="http://img.starbr.nz/1626554814_14879df7b4ee3ce79643c6f04ecbbc35ff65508f.png" group-title="3 DIAS ",CINE SKY 1 FULL HD
 http://list.starbr.nz:80/bbhbj68063/jjkca72981/77250
 #EXTINF:-1 tvg-id="" tvg-name="CINE SKY 10 HD" tvg-logo="http://img.starbr.nz/1626554814_14879df7b4ee3ce79643c6f04ecbbc35ff65508f.png" group-title="3 DIAS ",CINE SKY 10 HD
 http://list.starbr.nz:80/bbhbj68063/jjkca72981/77259
