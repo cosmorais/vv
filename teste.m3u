@@ -169,6 +169,9 @@ http://cloud-nany.cc:80/tv2021/2021tv/54130
 http://cloud-nany.cc:80/tv2021/2021tv/54112
 
 
+#EXTINF:-15 tvg-id="Ae.br" tvg-name="afazenda13" group-title="3 DIAS ",BAND 17/11/2021
+http://list.starbr.nz:80/bbhbj68063/jjkca72981/52595
+
 #EXTINF:-15 tvg-id="Ae.br" tvg-name="afazenda13" group-title="3 DIAS ",AMC 17/11/2021
 http://list.starbr.nz:80/bbhbj68063/jjkca72981/15406
 
