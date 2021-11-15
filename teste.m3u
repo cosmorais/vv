@@ -94,40 +94,40 @@ http://168.205.87.198:8555/live/123456/123456/139.m3u8
 http://cloud-nany.cc:80/tv2021/2021tv/7932
 
 
-#EXTINF:-1,43 | PREMIERE CLUBES SD
+#EXTINF:-15 tvg-id="Ae.br" tvg-name="ESPORTES" group-title="ESPORTES ",PREMIERE CLUBES SD
 http://cloud-nany.cc:80/tv2021/2021tv/1158
 
 
-#EXTINF:-1,Premiere 2 SD
+#EXTINF:-15 tvg-id="Ae.br" tvg-name="ESPORTES" group-title="ESPORTES ",Premiere 2 SD
 http://cloud-nany.cc:80/tv2021/2021tv/7968
 
 
-#EXTINF:-1,Premiere 3 SD
+#EXTINF:-15 tvg-id="Ae.br" tvg-name="ESPORTES" group-title="ESPORTES ",Premiere 3 SD
 http://cloud-nany.cc:80/tv2021/2021tv/7966
 
-#EXTINF:-1,Premiere 4 HD
+#EXTINF:-15 tvg-id="Ae.br" tvg-name="ESPORTES" group-title="ESPORTES ",Premiere 4 HD
 http://cloud-nany.cc:80/tv2021/2021tv/7963
 
-#EXTINF:-1,Premiere 4 SD
+#EXTINF:-15 tvg-id="Ae.br" tvg-name="ESPORTES" group-title="ESPORTES ",Premiere 4 SD
 http://cloud-nany.cc:80/tv2021/2021tv/992
 
 
-#EXTINF:-1,Premiere 5 HD
+#EXTINF:-15 tvg-id="Ae.br" tvg-name="ESPORTES" group-title="ESPORTES ",Premiere 5 HD
 http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/75482
 
 
-#EXTINF:-1,Premiere 6 HD
+#EXTINF:-15 tvg-id="Ae.br" tvg-name="ESPORTES" group-title="ESPORTES ",Premiere 6 HD
 http://cloud-nany.cc:80/tv2021/2021tv/7959
 
-#EXTINF:-1,Premiere 6 SD
+#EXTINF:-15 tvg-id="Ae.br" tvg-name="ESPORTES" group-title="ESPORTES ",Premiere 6 SD
 http://cloud-nany.cc:80/tv2021/2021tv/7960
 
 
 
-#EXTINF:-1,Premiere 7 HD
+#EXTINF:-15 tvg-id="Ae.br" tvg-name="ESPORTES" group-title="ESPORTES ",Premiere 7 HD
 http://cloud-nany.cc:80/tv2021/2021tv/7957
 
-#EXTINF:-1,Premiere 7 SD
+#EXTINF:-15 tvg-id="Ae.br" tvg-name="ESPORTES" group-title="ESPORTES ",Premiere 7 SD
 http://cloud-nany.cc:80/tv2021/2021tv/7958
 
 
@@ -176,7 +176,7 @@ http://list.starbr.nz:80/bbhbj68063/jjkca72981/52595
 http://list.starbr.nz:80/bbhbj68063/jjkca72981/15406
 
 #EXTINF:-15 tvg-id="Ae.br" tvg-name="afazenda13" group-title="3 DIAS ",PIPOCA 17/11/2021
-http://list.starbr.nz:80/bbhbj68063/jjkca72981/930
+http://list.starbr.nz:80/bbhbj68063/jjkca72981/52623
 
 #EXTINF:-15 tvg-id="Ae.br" tvg-name="afazenda13" group-title="3 DIAS ",SPACE 17/11/2021
 http://list.starbr.nz:80/bbhbj68063/jjkca72981/1327
@@ -185,7 +185,7 @@ http://list.starbr.nz:80/bbhbj68063/jjkca72981/1327
 http://list.starbr.nz:80/bbhbj68063/jjkca72981/5080
 
 
-EXTINF:-15 tvg-id="Ae.br" tvg-name="afazenda13" group-title="3 DIAS ",WARNER CHANNEL 17/11/2021
+#EXTINF:-15 tvg-id="Ae.br" tvg-name="afazenda13" group-title="3 DIAS ",WARNER CHANNEL 17/11/2021
 http://list.starbr.nz:80/bbhbj68063/jjkca72981/2478
 
 
