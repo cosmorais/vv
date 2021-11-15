@@ -148,19 +148,6 @@ http://canaishd.servidor.tv:8080/natan100/100natan/484
 http://canaishd.servidor.tv:8080/natan100/100natan/63319
 
 
-
-
-
-
-#EXTINF:-30 tvg-id="Ae.br" tvg-name="Aberto" group-title="Abertos ",TESTE
-http://altv.tvhome.info:8080/C44E74526807/C44E74526807/4628
-
-
-#EXTINF:-30 tvg-id="Ae.br" tvg-name="Aberto" group-title="Abertos ",PREMIERE TESTE
-http://23.237.87.18:80/C44E74526807/C44E74526807/4628?token=SxYMUEZcEANAV1AIUAFWWwIAVQNXUlZWAVgOUVcHUgQEAQcCUABXWAMUTxMXQEYGAls8XgBACAACCw8fFkEVVUJrDVUXDhAPUgFWBEYYFhcKWwYVXlMEBwIBDgABA18cEkQNVRcOEA1UBVYTSBZRGxdTEVkFDm1QUU9eUFEWXF5FWAgdF1tcZgZTDlAKUBZZQQZBG0YLQUQWA1lGWFhKElJdEENUQFcbWBRSBFADFk9BVQxCChZATRYDFWZnFkoSVUwQVFtHW1YMFFkTEEcWT0FfEGgWB0FARlxWXlFGRAoSBEYdF1lTQT1VDF8KUVcXClkNREZYEAYWFRVeW1oPRF9GO0FcUBADQAVRBlIWSQ==
-
-
-
 #EXTINF:-1 tvg-id="LiveJaspion" tvg-name="[24h] JASPION" tvg-logo="https://i.imgur.com/AHmeYJr.jpg" group-title="LIVE: SERIES 24h",[24h] JASPION
 http://cloud-nany.cc:80/tv2021/2021tv/54111
 #EXTINF:-1 tvg-id="" tvg-name="[24h] JIRAIYA: O INCRIVEL NINJA" tvg-logo="https://i.imgur.com/AHmeYJr.jpg" group-title="LIVE: SERIES 24h",[24h] JIRAIYA: O INCRIVEL NINJA
